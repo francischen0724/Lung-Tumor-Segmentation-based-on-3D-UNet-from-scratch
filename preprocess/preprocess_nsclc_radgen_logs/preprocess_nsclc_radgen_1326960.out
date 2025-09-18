@@ -1,0 +1,13 @@
+==========================================
+SLURM_JOB_ID = 1326960
+SLURM_JOB_NODELIST = e21-14
+TMPDIR = /tmp/SLURM_1326960
+==========================================
+GPU Available
+Preprocessing Radiogenomics dataset...
+📂 Patient: R01-023, CT Study folder: 04-20-1991-NA-CT ANGIOGRAPHY CHEST-37940
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-39719', '2.000000-0.625  DMPR On  SS50-86093']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-023/04-20-1991-NA-CT ANGIOGRAPHY CHEST-37940/2.000000-0.625  DMPR On  SS50-86093
+🧠 Seg shape: (69, 512, 512), 1 segments
+lungmask 2025-07-19 12:07:50 Postprocessing
+[normalize] ⚠️ Invalid spacing detected, falling back to ndimage.zoom

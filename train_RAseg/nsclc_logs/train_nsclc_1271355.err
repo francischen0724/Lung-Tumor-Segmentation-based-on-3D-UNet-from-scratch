@@ -1,0 +1,2 @@
+/var/spool/slurm/d/job1271355/slurm_script: line 21: 2658214 Killed                  python main.py train_seg ../datasets_XW/split/NSCLC/ results_RAseg/NSCLC NSCLC --batch_size 1 --epochs 100
+slurmstepd: error: Detected 1 oom_kill event in StepId=1271355.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,2958 @@
+==========================================
+SLURM_JOB_ID = 1024026
+SLURM_JOB_NODELIST = e22-01
+TMPDIR = /tmp/SLURM_1024026
+==========================================
+GPU Available
+Preprocessing Radiomics dataset...
+📂 Patient: LUNG1-001, Study folder: 09-18-2008-StudyID-NA-69331
+📁 Elements inside study: ['.DS_Store', 'CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-001/09-18-2008-StudyID-NA-69331/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:06:12 Postprocessing
+📂 Patient: LUNG1-002, Study folder: 01-01-2014-StudyID-NA-85095
+📁 Elements inside study: ['CT', 'Other_2', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-002/01-01-2014-StudyID-NA-85095/CT
+🧠 Seg shape: (666, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:06:34 Postprocessing
+📂 Patient: LUNG1-003, Study folder: 01-01-2014-StudyID-NA-34270
+📁 Elements inside study: ['CT', 'Other_2', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-003/01-01-2014-StudyID-NA-34270/CT
+🧠 Seg shape: (642, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:06:53 Postprocessing
+📂 Patient: LUNG1-004, Study folder: 09-24-2006-StudyID-NA-27873
+📁 Elements inside study: ['RT', 'SEG', '.DS_Store', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-004/09-24-2006-StudyID-NA-27873/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:07:15 Postprocessing
+📂 Patient: LUNG1-005, Study folder: 01-01-2014-StudyID-NA-93819
+📁 Elements inside study: ['CT', '.DS_Store', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-005/01-01-2014-StudyID-NA-93819/CT
+🧠 Seg shape: (546, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:07:34 Postprocessing
+📂 Patient: LUNG1-006, Study folder: 01-01-2014-StudyID-NA-99263
+📁 Elements inside study: ['.DS_Store', 'CT', 'Other_2', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-006/01-01-2014-StudyID-NA-99263/CT
+🧠 Seg shape: (684, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:07:55 Postprocessing
+📂 Patient: LUNG1-007, Study folder: 05-28-2010-NA-NA-36277
+📁 Elements inside study: ['SEG', 'RT', '.DS_Store', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-007/05-28-2010-NA-NA-36277/CT
+🧠 Seg shape: (774, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:08:18 Postprocessing
+📂 Patient: LUNG1-008, Study folder: 01-01-2014-StudyID-NA-52421
+📁 Elements inside study: ['SEG', '.DS_Store', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-008/01-01-2014-StudyID-NA-52421/CT
+🧠 Seg shape: (684, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:08:39 Postprocessing
+📂 Patient: LUNG1-009, Study folder: 01-01-2014-StudyID-NA-54035
+📁 Elements inside study: ['Other_2', 'CT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-009/01-01-2014-StudyID-NA-54035/CT
+🧠 Seg shape: (525, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:08:59 Postprocessing
+📂 Patient: LUNG1-010, Study folder: 01-01-2014-StudyID-NA-54264
+📁 Elements inside study: ['Other_2', 'SEG', 'CT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-010/01-01-2014-StudyID-NA-54264/CT
+🧠 Seg shape: (546, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:09:17 Postprocessing
+📂 Patient: LUNG1-011, Study folder: 01-01-2014-StudyID-NA-64935
+📁 Elements inside study: ['SEG', 'CT', 'Other_2', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-011/01-01-2014-StudyID-NA-64935/CT
+🧠 Seg shape: (528, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:09:34 Postprocessing
+📂 Patient: LUNG1-012, Study folder: 01-01-2014-StudyID-NA-42151
+📁 Elements inside study: ['.DS_Store', 'SEG', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-012/01-01-2014-StudyID-NA-42151/CT
+🧠 Seg shape: (654, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:09:54 Postprocessing
+📂 Patient: LUNG1-013, Study folder: 05-25-2006-StudyID-NA-50081
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-013/05-25-2006-StudyID-NA-50081/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:10:17 Postprocessing
+📂 Patient: LUNG1-014, Study folder: 01-01-2014-StudyID-NA-06346
+📁 Elements inside study: ['CT', 'SEG', 'RT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-014/01-01-2014-StudyID-NA-06346/CT
+🧠 Seg shape: (618, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:10:35 Postprocessing
+📂 Patient: LUNG1-015, Study folder: 01-01-2014-StudyID-NA-04625
+📁 Elements inside study: ['RT', '.DS_Store', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-015/01-01-2014-StudyID-NA-04625/CT
+🧠 Seg shape: (468, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:10:57 Postprocessing
+📂 Patient: LUNG1-016, Study folder: 01-01-2014-StudyID-NA-36302
+📁 Elements inside study: ['.DS_Store', 'Other_2', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-016/01-01-2014-StudyID-NA-36302/CT
+🧠 Seg shape: (492, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:11:14 Postprocessing
+📂 Patient: LUNG1-017, Study folder: 01-01-2014-StudyID-NA-37586
+📁 Elements inside study: ['Other_2', 'CT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-017/01-01-2014-StudyID-NA-37586/CT
+🧠 Seg shape: (615, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:11:35 Postprocessing
+📂 Patient: LUNG1-018, Study folder: 01-01-2014-StudyID-NA-55796
+📁 Elements inside study: ['RT', '.DS_Store', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-018/01-01-2014-StudyID-NA-55796/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:11:55 Postprocessing
+📂 Patient: LUNG1-019, Study folder: 01-01-2014-StudyID-NA-29398
+📁 Elements inside study: ['RT', 'CT', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-019/01-01-2014-StudyID-NA-29398/CT
+🧠 Seg shape: (505, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:12:15 Postprocessing
+📂 Patient: LUNG1-020, Study folder: 01-01-2014-StudyID-NA-91495
+📁 Elements inside study: ['.DS_Store', 'SEG', 'Other_2', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-020/01-01-2014-StudyID-NA-91495/CT
+🧠 Seg shape: (648, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:12:36 Postprocessing
+📂 Patient: LUNG1-021, Study folder: 01-01-2014-StudyID-NA-79998
+📁 Elements inside study: ['SEG', '.DS_Store', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-021/01-01-2014-StudyID-NA-79998/CT
+🧠 Seg shape: (1188, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:13:06 Postprocessing
+📂 Patient: LUNG1-022, Study folder: 01-01-2014-StudyID-NA-35402
+📁 Elements inside study: ['Other_2', 'CT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-022/01-01-2014-StudyID-NA-35402/CT
+🧠 Seg shape: (726, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:13:28 Postprocessing
+📂 Patient: LUNG1-023, Study folder: 01-01-2014-StudyID-NA-01819
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-023/01-01-2014-StudyID-NA-01819/CT
+🧠 Seg shape: (756, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:13:49 Postprocessing
+📂 Patient: LUNG1-024, Study folder: 01-01-2014-StudyID-NA-55010
+📁 Elements inside study: ['SEG', 'RT', 'CT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-024/01-01-2014-StudyID-NA-55010/CT
+🧠 Seg shape: (570, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:14:08 Postprocessing
+📂 Patient: LUNG1-025, Study folder: 01-05-2005-StudyID-NA-11391
+📁 Elements inside study: ['SEG', '.DS_Store', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-025/01-05-2005-StudyID-NA-11391/CT
+🧠 Seg shape: (636, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:14:26 Postprocessing
+📂 Patient: LUNG1-026, Study folder: 09-27-2004-StudyID-NA-66509
+📁 Elements inside study: ['.DS_Store', 'RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-026/09-27-2004-StudyID-NA-66509/CT
+🧠 Seg shape: (660, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:14:46 Postprocessing
+📂 Patient: LUNG1-027, Study folder: 01-01-2014-StudyID-NA-35913
+📁 Elements inside study: ['.DS_Store', 'RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-027/01-01-2014-StudyID-NA-35913/CT
+🧠 Seg shape: (432, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:15:05 Postprocessing
+📂 Patient: LUNG1-028, Study folder: 01-01-2014-StudyID-NA-72164
+📁 Elements inside study: ['.DS_Store', 'RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-028/01-01-2014-StudyID-NA-72164/CT
+🧠 Seg shape: (612, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:15:24 Postprocessing
+📂 Patient: LUNG1-029, Study folder: 04-25-2009-StudyID-NA-96917
+📁 Elements inside study: ['CT', 'RT', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-029/04-25-2009-StudyID-NA-96917/CT
+🧠 Seg shape: (524, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:15:47 Postprocessing
+📂 Patient: LUNG1-030, Study folder: 01-01-2014-StudyID-NA-40195
+📁 Elements inside study: ['SEG', '.DS_Store', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-030/01-01-2014-StudyID-NA-40195/CT
+🧠 Seg shape: (564, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:16:05 Postprocessing
+📂 Patient: LUNG1-031, Study folder: 01-01-2014-StudyID-NA-60542
+📁 Elements inside study: ['CT', '.DS_Store', 'SEG', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-031/01-01-2014-StudyID-NA-60542/CT
+🧠 Seg shape: (918, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:16:30 Postprocessing
+📂 Patient: LUNG1-032, Study folder: 10-10-2008-StudyID-NA-07387
+📁 Elements inside study: ['SEG', 'RT', '.DS_Store', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-032/10-10-2008-StudyID-NA-07387/CT
+🧠 Seg shape: (585, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:16:51 Postprocessing
+📂 Patient: LUNG1-033, Study folder: 11-25-2004-StudyID-NA-23342
+📁 Elements inside study: ['.DS_Store', 'SEG', 'Other_2', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-033/11-25-2004-StudyID-NA-23342/CT
+🧠 Seg shape: (678, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:17:11 Postprocessing
+📂 Patient: LUNG1-034, Study folder: 01-01-2014-StudyID-NA-02272
+📁 Elements inside study: ['.DS_Store', 'SEG', 'Other_2', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-034/01-01-2014-StudyID-NA-02272/CT
+🧠 Seg shape: (570, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:17:30 Postprocessing
+📂 Patient: LUNG1-035, Study folder: 01-01-2014-StudyID-NA-67281
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-035/01-01-2014-StudyID-NA-67281/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:17:48 Postprocessing
+📂 Patient: LUNG1-036, Study folder: 09-14-2008-NA-NA-59270
+📁 Elements inside study: ['SEG', 'RT', '.DS_Store', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-036/09-14-2008-NA-NA-59270/CT
+🧠 Seg shape: (540, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:18:12 Postprocessing
+📂 Patient: LUNG1-037, Study folder: 12-17-2004-StudyID-NA-81406
+📁 Elements inside study: ['Other_2', '.DS_Store', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-037/12-17-2004-StudyID-NA-81406/CT
+🧠 Seg shape: (545, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:18:31 Postprocessing
+📂 Patient: LUNG1-038, Study folder: 01-01-2014-StudyID-NA-11498
+📁 Elements inside study: ['CT', '.DS_Store', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-038/01-01-2014-StudyID-NA-11498/CT
+🧠 Seg shape: (1056, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:19:02 Postprocessing
+📂 Patient: LUNG1-039, Study folder: 01-01-2014-StudyID-NA-37038
+📁 Elements inside study: ['.DS_Store', 'RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-039/01-01-2014-StudyID-NA-37038/CT
+🧠 Seg shape: (570, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:19:21 Postprocessing
+📂 Patient: LUNG1-040, Study folder: 01-01-2014-StudyID-NA-01636
+📁 Elements inside study: ['CT', '.DS_Store', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-040/01-01-2014-StudyID-NA-01636/CT
+🧠 Seg shape: (570, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:19:39 Postprocessing
+📂 Patient: LUNG1-041, Study folder: 01-01-2014-StudyID-NA-35360
+📁 Elements inside study: ['.DS_Store', 'SEG', 'Other_2', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-041/01-01-2014-StudyID-NA-35360/CT
+🧠 Seg shape: (520, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:19:59 Postprocessing
+📂 Patient: LUNG1-042, Study folder: 01-01-2014-StudyID-NA-81603
+📁 Elements inside study: ['SEG', 'CT', 'Other_2', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-042/01-01-2014-StudyID-NA-81603/CT
+🧠 Seg shape: (594, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:20:16 Postprocessing
+📂 Patient: LUNG1-043, Study folder: 01-01-2014-StudyID-NA-76764
+📁 Elements inside study: ['RT', '.DS_Store', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-043/01-01-2014-StudyID-NA-76764/CT
+🧠 Seg shape: (618, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:20:35 Postprocessing
+📂 Patient: LUNG1-044, Study folder: 01-01-2014-StudyID-NA-08675
+📁 Elements inside study: ['.DS_Store', 'CT', 'Other_2', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-044/01-01-2014-StudyID-NA-08675/CT
+🧠 Seg shape: (495, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:20:53 Postprocessing
+📂 Patient: LUNG1-045, Study folder: 01-01-2014-StudyID-NA-80075
+📁 Elements inside study: ['CT', 'RT', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-045/01-01-2014-StudyID-NA-80075/CT
+🧠 Seg shape: (432, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:21:12 Postprocessing
+📂 Patient: LUNG1-046, Study folder: 01-01-2014-StudyID-NA-84290
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-046/01-01-2014-StudyID-NA-84290/CT
+🧠 Seg shape: (534, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:21:29 Postprocessing
+📂 Patient: LUNG1-047, Study folder: 01-01-2014-StudyID-NA-48192
+📁 Elements inside study: ['CT', 'RT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-047/01-01-2014-StudyID-NA-48192/CT
+🧠 Seg shape: (550, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:21:48 Postprocessing
+📂 Patient: LUNG1-048, Study folder: 04-13-2006-StudyID-NA-58189
+📁 Elements inside study: ['CT', 'RT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-048/04-13-2006-StudyID-NA-58189/CT
+🧠 Seg shape: (540, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:22:13 Postprocessing
+📂 Patient: LUNG1-049, Study folder: 01-01-2014-StudyID-NA-45360
+📁 Elements inside study: ['.DS_Store', 'CT', 'Other_2', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-049/01-01-2014-StudyID-NA-45360/CT
+🧠 Seg shape: (472, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:22:33 Postprocessing
+📂 Patient: LUNG1-050, Study folder: 01-01-2014-NA-NA-47268
+📁 Elements inside study: ['CT', 'RT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-050/01-01-2014-NA-NA-47268/CT
+🧠 Seg shape: (104, 512, 512), 1 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:22:52 Postprocessing
+📂 Patient: LUNG1-051, Study folder: 04-27-2006-StudyID-NA-91609
+📁 Elements inside study: ['RT', 'SEG', 'CT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-051/04-27-2006-StudyID-NA-91609/CT
+🧠 Seg shape: (750, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:23:16 Postprocessing
+📂 Patient: LUNG1-052, Study folder: 01-01-2014-StudyID-NA-48653
+📁 Elements inside study: ['.DS_Store', 'RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-052/01-01-2014-StudyID-NA-48653/CT
+🧠 Seg shape: (635, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:23:38 Postprocessing
+📂 Patient: LUNG1-053, Study folder: 01-01-2014-StudyID-NA-35107
+📁 Elements inside study: ['CT', '.DS_Store', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-053/01-01-2014-StudyID-NA-35107/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:23:56 Postprocessing
+📂 Patient: LUNG1-054, Study folder: 01-01-2014-StudyID-NA-28344
+📁 Elements inside study: ['SEG', 'CT', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-054/01-01-2014-StudyID-NA-28344/CT
+🧠 Seg shape: (585, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:24:16 Postprocessing
+📂 Patient: LUNG1-055, Study folder: 01-01-2014-StudyID-NA-40827
+📁 Elements inside study: ['SEG', 'CT', 'RT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-055/01-01-2014-StudyID-NA-40827/CT
+🧠 Seg shape: (625, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:24:38 Postprocessing
+📂 Patient: LUNG1-056, Study folder: 05-23-2008-StudyID-NA-46060
+📁 Elements inside study: ['RT', 'CT', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-056/05-23-2008-StudyID-NA-46060/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:25:04 Postprocessing
+📂 Patient: LUNG1-057, Study folder: 01-01-2014-StudyID-NA-01906
+📁 Elements inside study: ['SEG', 'CT', 'RT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-057/01-01-2014-StudyID-NA-01906/CT
+🧠 Seg shape: (505, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:25:23 Postprocessing
+📂 Patient: LUNG1-058, Study folder: 08-17-2010-NA-NA-74483
+📁 Elements inside study: ['.DS_Store', 'Other_2', 'SEG', 'RT']
+❌ CT folder not found for LUNG1-058
+📂 Patient: LUNG1-059, Study folder: 11-16-2005-StudyID-NA-77162
+📁 Elements inside study: ['.DS_Store', 'Other_2', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-059/11-16-2005-StudyID-NA-77162/CT
+🧠 Seg shape: (550, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:25:42 Postprocessing
+📂 Patient: LUNG1-060, Study folder: 06-24-2007-StudyID-NA-28215
+📁 Elements inside study: ['Other_2', '.DS_Store', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-060/06-24-2007-StudyID-NA-28215/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:26:04 Postprocessing
+📂 Patient: LUNG1-061, Study folder: 11-24-2005-StudyID-NA-19108
+📁 Elements inside study: ['RT', 'CT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-061/11-24-2005-StudyID-NA-19108/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:26:24 Postprocessing
+📂 Patient: LUNG1-062, Study folder: 01-01-2014-StudyID-NA-45668
+📁 Elements inside study: ['CT', 'RT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-062/01-01-2014-StudyID-NA-45668/CT
+🧠 Seg shape: (505, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:26:43 Postprocessing
+📂 Patient: LUNG1-063, Study folder: 01-01-2014-StudyID-NA-80351
+📁 Elements inside study: ['RT', 'SEG', 'CT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-063/01-01-2014-StudyID-NA-80351/CT
+🧠 Seg shape: (456, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:27:02 Postprocessing
+📂 Patient: LUNG1-064, Study folder: 01-01-2014-StudyID-NA-80215
+📁 Elements inside study: ['SEG', 'CT', 'Other_2', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-064/01-01-2014-StudyID-NA-80215/CT
+🧠 Seg shape: (624, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:27:21 Postprocessing
+📂 Patient: LUNG1-065, Study folder: 01-06-2006-StudyID-NA-18579
+📁 Elements inside study: ['SEG', '.DS_Store', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-065/01-06-2006-StudyID-NA-18579/CT
+🧠 Seg shape: (540, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:27:47 Postprocessing
+📂 Patient: LUNG1-066, Study folder: 12-10-2005-StudyID-NA-06507
+📁 Elements inside study: ['CT', '.DS_Store', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-066/12-10-2005-StudyID-NA-06507/CT
+🧠 Seg shape: (552, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:28:05 Postprocessing
+📂 Patient: LUNG1-067, Study folder: 10-31-2005-NA-NA-57192
+📁 Elements inside study: ['.DS_Store', 'Other_2', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-067/10-31-2005-NA-NA-57192/CT
+🧠 Seg shape: (176, 512, 512), 1 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:28:36 Postprocessing
+📂 Patient: LUNG1-068, Study folder: 01-01-2014-StudyID-NA-02929
+📁 Elements inside study: ['CT', 'SEG', '.DS_Store', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-068/01-01-2014-StudyID-NA-02929/CT
+🧠 Seg shape: (525, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:28:56 Postprocessing
+📂 Patient: LUNG1-069, Study folder: 12-16-2005-StudyID-NA-43687
+📁 Elements inside study: ['SEG', 'CT', 'RT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-069/12-16-2005-StudyID-NA-43687/CT
+🧠 Seg shape: (765, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:29:21 Postprocessing
+📂 Patient: LUNG1-070, Study folder: 01-01-2014-StudyID-NA-21779
+📁 Elements inside study: ['.DS_Store', 'CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-070/01-01-2014-StudyID-NA-21779/CT
+🧠 Seg shape: (545, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:29:41 Postprocessing
+📂 Patient: LUNG1-071, Study folder: 02-04-2006-StudyID-NA-35606
+📁 Elements inside study: ['.DS_Store', 'RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-071/02-04-2006-StudyID-NA-35606/CT
+🧠 Seg shape: (810, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:30:04 Postprocessing
+📂 Patient: LUNG1-072, Study folder: 04-22-2006-StudyID-NA-70523
+📁 Elements inside study: ['SEG', 'RT', 'CT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-072/04-22-2006-StudyID-NA-70523/CT
+🧠 Seg shape: (635, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:30:27 Postprocessing
+📂 Patient: LUNG1-073, Study folder: 01-29-2006-StudyID-NA-01845
+📁 Elements inside study: ['.DS_Store', 'SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-073/01-29-2006-StudyID-NA-01845/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:30:58 Postprocessing
+📂 Patient: LUNG1-074, Study folder: 01-01-2014-StudyID-NA-96746
+📁 Elements inside study: ['SEG', 'Other_2', '.DS_Store', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-074/01-01-2014-StudyID-NA-96746/CT
+🧠 Seg shape: (575, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:31:19 Postprocessing
+📂 Patient: LUNG1-075, Study folder: 02-03-2006-StudyID-NA-01758
+📁 Elements inside study: ['.DS_Store', 'CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-075/02-03-2006-StudyID-NA-01758/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:31:52 Postprocessing
+📂 Patient: LUNG1-076, Study folder: 12-07-2005-StudyID-NA-80673
+📁 Elements inside study: ['CT', 'RT', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-076/12-07-2005-StudyID-NA-80673/CT
+🧠 Seg shape: (460, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:32:10 Postprocessing
+📂 Patient: LUNG1-077, Study folder: 12-25-2005-StudyID-NA-82071
+📁 Elements inside study: ['RT', '.DS_Store', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-077/12-25-2005-StudyID-NA-82071/CT
+🧠 Seg shape: (468, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:32:32 Postprocessing
+📂 Patient: LUNG1-078, Study folder: 01-01-2014-StudyID-NA-61542
+📁 Elements inside study: ['.DS_Store', 'RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-078/01-01-2014-StudyID-NA-61542/CT
+🧠 Seg shape: (816, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:32:54 Postprocessing
+📂 Patient: LUNG1-079, Study folder: 12-22-2005-StudyID-NA-39992
+📁 Elements inside study: ['SEG', 'CT', 'RT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-079/12-22-2005-StudyID-NA-39992/CT
+🧠 Seg shape: (675, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:33:18 Postprocessing
+📂 Patient: LUNG1-080, Study folder: 12-31-2005-StudyID-NA-96786
+📁 Elements inside study: ['RT', '.DS_Store', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-080/12-31-2005-StudyID-NA-96786/CT
+🧠 Seg shape: (594, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:33:36 Postprocessing
+📂 Patient: LUNG1-081, Study folder: 12-25-2005-StudyID-NA-34399
+📁 Elements inside study: ['SEG', 'CT', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-081/12-25-2005-StudyID-NA-34399/CT
+🧠 Seg shape: (565, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:33:57 Postprocessing
+📂 Patient: LUNG1-082, Study folder: 02-22-2006-StudyID-NA-33357
+📁 Elements inside study: ['CT', '.DS_Store', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-082/02-22-2006-StudyID-NA-33357/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:34:28 Postprocessing
+📂 Patient: LUNG1-083, Study folder: 12-31-2005-StudyID-NA-78482
+📁 Elements inside study: ['.DS_Store', 'RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-083/12-31-2005-StudyID-NA-78482/CT
+🧠 Seg shape: (678, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:34:51 Postprocessing
+📂 Patient: LUNG1-084, Study folder: 01-05-2006-StudyID-NA-94731
+📁 Elements inside study: ['.DS_Store', 'RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-084/01-05-2006-StudyID-NA-94731/CT
+🧠 Seg shape: (675, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:35:16 Postprocessing
+📂 Patient: LUNG1-085, Study folder: 01-14-2006-StudyID-NA-78863
+📁 Elements inside study: ['.DS_Store', 'CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-085/01-14-2006-StudyID-NA-78863/CT
+🧠 Seg shape: (696, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:35:37 Postprocessing
+📂 Patient: LUNG1-086, Study folder: 04-30-2006-StudyID-NA-74239
+📁 Elements inside study: ['RT', 'CT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-086/04-30-2006-StudyID-NA-74239/CT
+🧠 Seg shape: (704, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:36:11 Postprocessing
+📂 Patient: LUNG1-087, Study folder: 01-01-2014-StudyID-NA-05555
+📁 Elements inside study: ['CT', '.DS_Store', 'SEG', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-087/01-01-2014-StudyID-NA-05555/CT
+🧠 Seg shape: (696, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:36:32 Postprocessing
+📂 Patient: LUNG1-088, Study folder: 01-25-2006-StudyID-NA-70904
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-088/01-25-2006-StudyID-NA-70904/CT
+🧠 Seg shape: (615, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:36:54 Postprocessing
+📂 Patient: LUNG1-089, Study folder: 01-15-2006-StudyID-NA-71727
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-089/01-15-2006-StudyID-NA-71727/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:37:12 Postprocessing
+📂 Patient: LUNG1-090, Study folder: 02-01-2006-StudyID-NA-26480
+📁 Elements inside study: ['.DS_Store', 'RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-090/02-01-2006-StudyID-NA-26480/CT
+🧠 Seg shape: (500, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:37:34 Postprocessing
+📂 Patient: LUNG1-091, Study folder: 01-27-2006-StudyID-NA-54545
+📁 Elements inside study: ['CT', 'RT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-091/01-27-2006-StudyID-NA-54545/CT
+🧠 Seg shape: (675, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:37:57 Postprocessing
+📂 Patient: LUNG1-092, Study folder: 03-25-2006-StudyID-NA-57781
+📁 Elements inside study: ['SEG', '.DS_Store', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-092/03-25-2006-StudyID-NA-57781/CT
+🧠 Seg shape: (675, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:38:22 Postprocessing
+📂 Patient: LUNG1-093, Study folder: 04-13-2006-StudyID-NA-25111
+📁 Elements inside study: ['SEG', 'CT', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-093/04-13-2006-StudyID-NA-25111/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:38:57 Postprocessing
+📂 Patient: LUNG1-094, Study folder: 01-27-2006-StudyID-NA-38072
+📁 Elements inside study: ['.DS_Store', 'SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-094/01-27-2006-StudyID-NA-38072/CT
+🧠 Seg shape: (420, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:39:16 Postprocessing
+📂 Patient: LUNG1-095, Study folder: 03-01-2006-StudyID-NA-01478
+📁 Elements inside study: ['.DS_Store', 'Other_2', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-095/03-01-2006-StudyID-NA-01478/CT
+🧠 Seg shape: (530, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:39:36 Postprocessing
+📂 Patient: LUNG1-096, Study folder: 02-03-2006-StudyID-NA-11532
+📁 Elements inside study: ['CT', '.DS_Store', 'Other_2', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-096/02-03-2006-StudyID-NA-11532/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:40:08 Postprocessing
+📂 Patient: LUNG1-097, Study folder: 02-26-2006-StudyID-NA-21320
+📁 Elements inside study: ['CT', 'RT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-097/02-26-2006-StudyID-NA-21320/CT
+🧠 Seg shape: (675, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:40:34 Postprocessing
+📂 Patient: LUNG1-098, Study folder: 03-03-2006-StudyID-NA-35118
+📁 Elements inside study: ['CT', 'SEG', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-098/03-03-2006-StudyID-NA-35118/CT
+🧠 Seg shape: (550, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:40:54 Postprocessing
+📂 Patient: LUNG1-099, Study folder: 06-22-2006-StudyID-NA-17328
+📁 Elements inside study: ['SEG', 'RT', '.DS_Store', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-099/06-22-2006-StudyID-NA-17328/CT
+🧠 Seg shape: (585, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:41:15 Postprocessing
+📂 Patient: LUNG1-100, Study folder: 03-04-2006-StudyID-NA-79317
+📁 Elements inside study: ['SEG', 'CT', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-100/03-04-2006-StudyID-NA-79317/CT
+🧠 Seg shape: (535, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:41:36 Postprocessing
+📂 Patient: LUNG1-101, Study folder: 03-15-2006-StudyID-NA-27911
+📁 Elements inside study: ['CT', 'Other_2', '.DS_Store', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-101/03-15-2006-StudyID-NA-27911/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:41:58 Postprocessing
+📂 Patient: LUNG1-102, Study folder: 03-02-2006-StudyID-NA-37333
+📁 Elements inside study: ['CT', 'SEG', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-102/03-02-2006-StudyID-NA-37333/CT
+🧠 Seg shape: (472, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:42:21 Postprocessing
+📂 Patient: LUNG1-103, Study folder: 08-28-2006-StudyID-NA-69457
+📁 Elements inside study: ['.DS_Store', 'SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-103/08-28-2006-StudyID-NA-69457/CT
+🧠 Seg shape: (672, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:42:44 Postprocessing
+📂 Patient: LUNG1-104, Study folder: 03-16-2006-StudyID-NA-19331
+📁 Elements inside study: ['SEG', 'CT', '.DS_Store', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-104/03-16-2006-StudyID-NA-19331/CT
+🧠 Seg shape: (1485, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:43:30 Postprocessing
+📂 Patient: LUNG1-105, Study folder: 03-08-2006-StudyID-NA-12502
+📁 Elements inside study: ['RT', 'CT', 'SEG', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-105/03-08-2006-StudyID-NA-12502/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:43:55 Postprocessing
+📂 Patient: LUNG1-106, Study folder: 03-08-2006-StudyID-NA-91903
+📁 Elements inside study: ['.DS_Store', 'RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-106/03-08-2006-StudyID-NA-91903/CT
+🧠 Seg shape: (495, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:44:15 Postprocessing
+📂 Patient: LUNG1-107, Study folder: 04-06-2006-StudyID-NA-19684
+📁 Elements inside study: ['.DS_Store', 'SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-107/04-06-2006-StudyID-NA-19684/CT
+🧠 Seg shape: (580, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:44:34 Postprocessing
+📂 Patient: LUNG1-108, Study folder: 03-19-2006-StudyID-NA-62453
+📁 Elements inside study: ['CT', 'SEG', 'RT', '.DS_Store']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-108/03-19-2006-StudyID-NA-62453/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:45:08 Postprocessing
+📂 Patient: LUNG1-109, Study folder: 04-20-2006-StudyID-NA-86457
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-109/04-20-2006-StudyID-NA-86457/CT
+🧠 Seg shape: (485, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:45:28 Postprocessing
+📂 Patient: LUNG1-110, Study folder: 05-19-2006-StudyID-NA-66132
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-110/05-19-2006-StudyID-NA-66132/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:46:01 Postprocessing
+📂 Patient: LUNG1-111, Study folder: 04-07-2006-StudyID-NA-30467
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-111/04-07-2006-StudyID-NA-30467/CT
+🧠 Seg shape: (864, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:46:37 Postprocessing
+📂 Patient: LUNG1-112, Study folder: 05-18-2006-StudyID-NA-87870
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-112/05-18-2006-StudyID-NA-87870/CT
+🧠 Seg shape: (880, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:47:11 Postprocessing
+📂 Patient: LUNG1-113, Study folder: 07-07-2006-StudyID-NA-44497
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-113/07-07-2006-StudyID-NA-44497/CT
+🧠 Seg shape: (590, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:47:32 Postprocessing
+📂 Patient: LUNG1-114, Study folder: 05-11-2006-StudyID-NA-27216
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-114/05-11-2006-StudyID-NA-27216/CT
+🧠 Seg shape: (645, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:47:56 Postprocessing
+📂 Patient: LUNG1-115, Study folder: 07-28-2006-StudyID-NA-45713
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-115/07-28-2006-StudyID-NA-45713/CT
+🧠 Seg shape: (106, 512, 512), 1 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:48:16 Postprocessing
+📂 Patient: LUNG1-116, Study folder: 05-25-2006-StudyID-NA-85487
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-116/05-25-2006-StudyID-NA-85487/CT
+🧠 Seg shape: (852, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:48:41 Postprocessing
+📂 Patient: LUNG1-117, Study folder: 06-03-2006-StudyID-NA-67639
+📁 Elements inside study: ['SEG', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-117/06-03-2006-StudyID-NA-67639/CT
+🧠 Seg shape: (360, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:48:59 Postprocessing
+📂 Patient: LUNG1-118, Study folder: 05-26-2006-StudyID-NA-85851
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-118/05-26-2006-StudyID-NA-85851/CT
+🧠 Seg shape: (372, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:49:21 Postprocessing
+📂 Patient: LUNG1-119, Study folder: 06-03-2006-StudyID-NA-34291
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-119/06-03-2006-StudyID-NA-34291/CT
+🧠 Seg shape: (348, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:49:43 Postprocessing
+📂 Patient: LUNG1-120, Study folder: 08-05-2006-StudyID-NA-41693
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-120/08-05-2006-StudyID-NA-41693/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:50:06 Postprocessing
+📂 Patient: LUNG1-121, Study folder: 06-30-2006-StudyID-NA-05880
+📁 Elements inside study: ['SEG', 'Other_2', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-121/06-30-2006-StudyID-NA-05880/CT
+🧠 Seg shape: (375, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:50:29 Postprocessing
+📂 Patient: LUNG1-122, Study folder: 07-01-2006-StudyID-NA-78287
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-122/07-01-2006-StudyID-NA-78287/CT
+🧠 Seg shape: (496, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:50:50 Postprocessing
+📂 Patient: LUNG1-123, Study folder: 07-09-2006-StudyID-NA-75973
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-123/07-09-2006-StudyID-NA-75973/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:51:11 Postprocessing
+📂 Patient: LUNG1-124, Study folder: 09-28-2006-StudyID-NA-06637
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-124/09-28-2006-StudyID-NA-06637/CT
+🧠 Seg shape: (666, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:51:32 Postprocessing
+📂 Patient: LUNG1-125, Study folder: 01-01-2014-StudyID-NA-62598
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-125/01-01-2014-StudyID-NA-62598/CT
+🧠 Seg shape: (535, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:51:52 Postprocessing
+📂 Patient: LUNG1-126, Study folder: 09-14-2006-StudyID-NA-37299
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-126/09-14-2006-StudyID-NA-37299/CT
+🧠 Seg shape: (615, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:52:15 Postprocessing
+📂 Patient: LUNG1-127, Study folder: 01-20-2007-StudyID-NA-33440
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-127/01-20-2007-StudyID-NA-33440/CT
+🧠 Seg shape: (580, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:52:36 Postprocessing
+📂 Patient: LUNG1-128, Study folder: 08-04-2006-NA-NA-03538
+📁 Elements inside study: ['RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-128/08-04-2006-NA-NA-03538/CT
+⚠️ No seg folder for LUNG1-128, skipping segmentation.
+lungmask 2025-06-26 18:52:55 Postprocessing
+📂 Patient: LUNG1-129, Study folder: 08-07-2006-StudyID-NA-41638
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-129/08-07-2006-StudyID-NA-41638/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:53:19 Postprocessing
+📂 Patient: LUNG1-130, Study folder: 08-14-2006-StudyID-NA-58337
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-130/08-14-2006-StudyID-NA-58337/CT
+🧠 Seg shape: (520, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:53:39 Postprocessing
+📂 Patient: LUNG1-131, Study folder: 09-08-2006-StudyID-NA-28573
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-131/09-08-2006-StudyID-NA-28573/CT
+🧠 Seg shape: (456, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:54:00 Postprocessing
+📂 Patient: LUNG1-132, Study folder: 08-03-2006-StudyID-NA-13339
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-132/08-03-2006-StudyID-NA-13339/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:54:23 Postprocessing
+📂 Patient: LUNG1-133, Study folder: 08-19-2006-StudyID-NA-45456
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-133/08-19-2006-StudyID-NA-45456/CT
+🧠 Seg shape: (736, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:54:52 Postprocessing
+📂 Patient: LUNG1-134, Study folder: 08-18-2006-StudyID-NA-30120
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-134/08-18-2006-StudyID-NA-30120/CT
+🧠 Seg shape: (432, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:55:13 Postprocessing
+📂 Patient: LUNG1-135, Study folder: 05-24-2010-NA-NA-73105
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-135/05-24-2010-NA-NA-73105/CT
+🧠 Seg shape: (558, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:55:32 Postprocessing
+📂 Patient: LUNG1-136, Study folder: 08-26-2006-StudyID-NA-27359
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-136/08-26-2006-StudyID-NA-27359/CT
+🧠 Seg shape: (550, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:55:52 Postprocessing
+📂 Patient: LUNG1-137, Study folder: 10-19-2006-StudyID-NA-84329
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-137/10-19-2006-StudyID-NA-84329/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:56:17 Postprocessing
+📂 Patient: LUNG1-138, Study folder: 09-07-2006-StudyID-NA-76083
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-138/09-07-2006-StudyID-NA-76083/CT
+🧠 Seg shape: (372, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:56:36 Postprocessing
+📂 Patient: LUNG1-139, Study folder: 11-25-2006-StudyID-NA-87335
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-139/11-25-2006-StudyID-NA-87335/CT
+🧠 Seg shape: (535, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:57:01 Postprocessing
+📂 Patient: LUNG1-140, Study folder: 01-01-2014-StudyID-NA-75276
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-140/01-01-2014-StudyID-NA-75276/CT
+🧠 Seg shape: (444, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:57:21 Postprocessing
+📂 Patient: LUNG1-141, Study folder: 10-16-2006-StudyID-NA-12304
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-141/10-16-2006-StudyID-NA-12304/CT
+🧠 Seg shape: (472, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:57:43 Postprocessing
+📂 Patient: LUNG1-142, Study folder: 12-14-2006-StudyID-NA-31335
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-142/12-14-2006-StudyID-NA-31335/CT
+🧠 Seg shape: (412, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:58:03 Postprocessing
+📂 Patient: LUNG1-143, Study folder: 11-05-2006-StudyID-NA-60261
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-143/11-05-2006-StudyID-NA-60261/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:58:25 Postprocessing
+📂 Patient: LUNG1-144, Study folder: 11-04-2006-StudyID-NA-86381
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-144/11-04-2006-StudyID-NA-86381/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 18:58:48 Postprocessing
+📂 Patient: LUNG1-145, Study folder: 10-27-2006-StudyID-NA-13919
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-145/10-27-2006-StudyID-NA-13919/CT
+🧠 Seg shape: (444, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:59:09 Postprocessing
+📂 Patient: LUNG1-146, Study folder: 12-10-2006-StudyID-NA-54933
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-146/12-10-2006-StudyID-NA-54933/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:59:32 Postprocessing
+📂 Patient: LUNG1-147, Study folder: 01-31-2007-StudyID-NA-77949
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-147/01-31-2007-StudyID-NA-77949/CT
+🧠 Seg shape: (396, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 18:59:51 Postprocessing
+📂 Patient: LUNG1-148, Study folder: 01-13-2007-StudyID-NA-25055
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-148/01-13-2007-StudyID-NA-25055/CT
+🧠 Seg shape: (540, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:00:11 Postprocessing
+📂 Patient: LUNG1-149, Study folder: 01-01-2014-StudyID-NA-90701
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-149/01-01-2014-StudyID-NA-90701/CT
+🧠 Seg shape: (118, 512, 512), 1 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:00:33 Postprocessing
+📂 Patient: LUNG1-150, Study folder: 11-17-2006-StudyID-NA-93388
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-150/11-17-2006-StudyID-NA-93388/CT
+🧠 Seg shape: (600, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:00:56 Postprocessing
+📂 Patient: LUNG1-151, Study folder: 11-16-2006-StudyID-NA-07780
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-151/11-16-2006-StudyID-NA-07780/CT
+🧠 Seg shape: (590, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:01:18 Postprocessing
+📂 Patient: LUNG1-152, Study folder: 11-17-2006-StudyID-NA-83883
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-152/11-17-2006-StudyID-NA-83883/CT
+🧠 Seg shape: (714, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:01:40 Postprocessing
+📂 Patient: LUNG1-153, Study folder: 11-26-2006-StudyID-NA-01965
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-153/11-26-2006-StudyID-NA-01965/CT
+🧠 Seg shape: (530, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:02:00 Postprocessing
+📂 Patient: LUNG1-154, Study folder: 01-01-2014-StudyID-NA-34758
+📁 Elements inside study: ['CT', 'SEG', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-154/01-01-2014-StudyID-NA-34758/CT
+🧠 Seg shape: (565, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:02:20 Postprocessing
+📂 Patient: LUNG1-155, Study folder: 01-01-2014-StudyID-NA-26744
+📁 Elements inside study: ['CT', 'SEG', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-155/01-01-2014-StudyID-NA-26744/CT
+🧠 Seg shape: (605, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:02:40 Postprocessing
+📂 Patient: LUNG1-156, Study folder: 03-10-2007-StudyID-NA-32544
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-156/03-10-2007-StudyID-NA-32544/CT
+🧠 Seg shape: (505, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:02:59 Postprocessing
+📂 Patient: LUNG1-157, Study folder: 12-28-2006-StudyID-NA-83230
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-157/12-28-2006-StudyID-NA-83230/CT
+🧠 Seg shape: (400, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:03:19 Postprocessing
+📂 Patient: LUNG1-158, Study folder: 01-01-2014-StudyID-NA-53308
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-158/01-01-2014-StudyID-NA-53308/CT
+🧠 Seg shape: (345, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:03:39 Postprocessing
+📂 Patient: LUNG1-159, Study folder: 01-01-2014-StudyID-NA-31836
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-159/01-01-2014-StudyID-NA-31836/CT
+🧠 Seg shape: (525, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:03:58 Postprocessing
+📂 Patient: LUNG1-160, Study folder: 01-26-2007-StudyID-NA-88638
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-160/01-26-2007-StudyID-NA-88638/CT
+🧠 Seg shape: (720, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:04:31 Postprocessing
+📂 Patient: LUNG1-161, Study folder: 01-25-2007-StudyID-NA-99431
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-161/01-25-2007-StudyID-NA-99431/CT
+🧠 Seg shape: (496, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:04:58 Postprocessing
+📂 Patient: LUNG1-162, Study folder: 04-12-2007-StudyID-NA-21249
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-162/04-12-2007-StudyID-NA-21249/CT
+🧠 Seg shape: (620, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:05:23 Postprocessing
+📂 Patient: LUNG1-163, Study folder: 04-26-2007-StudyID-NA-00372
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-163/04-26-2007-StudyID-NA-00372/CT
+🧠 Seg shape: (432, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:05:46 Postprocessing
+📂 Patient: LUNG1-164, Study folder: 03-07-2007-StudyID-NA-67128
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-164/03-07-2007-StudyID-NA-67128/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:06:12 Postprocessing
+📂 Patient: LUNG1-165, Study folder: 02-17-2007-StudyID-NA-84324
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-165/02-17-2007-StudyID-NA-84324/CT
+🧠 Seg shape: (515, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:06:34 Postprocessing
+📂 Patient: LUNG1-166, Study folder: 02-21-2007-StudyID-NA-46760
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-166/02-21-2007-StudyID-NA-46760/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:06:59 Postprocessing
+📂 Patient: LUNG1-167, Study folder: 03-04-2007-StudyID-NA-81284
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-167/03-04-2007-StudyID-NA-81284/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:07:24 Postprocessing
+📂 Patient: LUNG1-168, Study folder: 02-09-2007-StudyID-NA-19207
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-168/02-09-2007-StudyID-NA-19207/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:07:55 Postprocessing
+📂 Patient: LUNG1-169, Study folder: 05-31-2007-StudyID-NA-97930
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-169/05-31-2007-StudyID-NA-97930/CT
+🧠 Seg shape: (485, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:08:16 Postprocessing
+📂 Patient: LUNG1-170, Study folder: 01-01-2014-StudyID-NA-20725
+📁 Elements inside study: ['SEG', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-170/01-01-2014-StudyID-NA-20725/CT
+🧠 Seg shape: (550, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:08:37 Postprocessing
+📂 Patient: LUNG1-171, Study folder: 03-03-2007-StudyID-NA-60449
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-171/03-03-2007-StudyID-NA-60449/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:09:06 Postprocessing
+📂 Patient: LUNG1-172, Study folder: 05-27-2007-StudyID-NA-54005
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-172/05-27-2007-StudyID-NA-54005/CT
+🧠 Seg shape: (475, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:09:28 Postprocessing
+📂 Patient: LUNG1-173, Study folder: 01-01-2014-StudyID-NA-86379
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-173/01-01-2014-StudyID-NA-86379/CT
+🧠 Seg shape: (530, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:09:49 Postprocessing
+📂 Patient: LUNG1-174, Study folder: 09-07-2008-StudyID-NA-62963
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-174/09-07-2008-StudyID-NA-62963/CT
+🧠 Seg shape: (432, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:10:10 Postprocessing
+📂 Patient: LUNG1-175, Study folder: 04-23-2007-StudyID-NA-09152
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-175/04-23-2007-StudyID-NA-09152/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:10:39 Postprocessing
+📂 Patient: LUNG1-176, Study folder: 05-06-2007-StudyID-NA-46137
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-176/05-06-2007-StudyID-NA-46137/CT
+🧠 Seg shape: (530, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:11:03 Postprocessing
+📂 Patient: LUNG1-177, Study folder: 07-08-2007-StudyID-NA-83992
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-177/07-08-2007-StudyID-NA-83992/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:11:23 Postprocessing
+📂 Patient: LUNG1-178, Study folder: 07-27-2007-StudyID-NA-15659
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-178/07-27-2007-StudyID-NA-15659/CT
+🧠 Seg shape: (630, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:11:48 Postprocessing
+📂 Patient: LUNG1-179, Study folder: 05-13-2007-StudyID-NA-86662
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-179/05-13-2007-StudyID-NA-86662/CT
+🧠 Seg shape: (615, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:12:13 Postprocessing
+📂 Patient: LUNG1-180, Study folder: 07-30-2007-StudyID-NA-95903
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-180/07-30-2007-StudyID-NA-95903/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:12:50 Postprocessing
+📂 Patient: LUNG1-181, Study folder: 06-11-2007-StudyID-NA-12487
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-181/06-11-2007-StudyID-NA-12487/CT
+🧠 Seg shape: (710, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:13:19 Postprocessing
+📂 Patient: LUNG1-182, Study folder: 06-17-2007-StudyID-NA-63630
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-182/06-17-2007-StudyID-NA-63630/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:13:45 Postprocessing
+📂 Patient: LUNG1-183, Study folder: 06-07-2007-StudyID-NA-82506
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-183/06-07-2007-StudyID-NA-82506/CT
+🧠 Seg shape: (545, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:14:10 Postprocessing
+📂 Patient: LUNG1-184, Study folder: 06-29-2007-StudyID-NA-50396
+📁 Elements inside study: ['CT', 'SEG', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-184/06-29-2007-StudyID-NA-50396/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:14:35 Postprocessing
+📂 Patient: LUNG1-185, Study folder: 06-08-2007-StudyID-NA-96362
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-185/06-08-2007-StudyID-NA-96362/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:15:01 Postprocessing
+📂 Patient: LUNG1-186, Study folder: 07-19-2007-StudyID-NA-05384
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-186/07-19-2007-StudyID-NA-05384/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:15:28 Postprocessing
+📂 Patient: LUNG1-187, Study folder: 06-23-2007-StudyID-NA-42552
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-187/06-23-2007-StudyID-NA-42552/CT
+🧠 Seg shape: (376, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:15:48 Postprocessing
+📂 Patient: LUNG1-188, Study folder: 01-01-2014-StudyID-NA-56111
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-188/01-01-2014-StudyID-NA-56111/CT
+🧠 Seg shape: (460, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:16:10 Postprocessing
+📂 Patient: LUNG1-189, Study folder: 09-10-2007-StudyID-NA-42610
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-189/09-10-2007-StudyID-NA-42610/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:16:31 Postprocessing
+📂 Patient: LUNG1-190, Study folder: 01-01-2014-StudyID-NA-91150
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-190/01-01-2014-StudyID-NA-91150/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:16:58 Postprocessing
+📂 Patient: LUNG1-191, Study folder: 10-28-2007-StudyID-NA-62465
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-191/10-28-2007-StudyID-NA-62465/CT
+🧠 Seg shape: (595, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:17:21 Postprocessing
+📂 Patient: LUNG1-192, Study folder: 09-08-2007-StudyID-NA-99803
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-192/09-08-2007-StudyID-NA-99803/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:17:50 Postprocessing
+📂 Patient: LUNG1-193, Study folder: 07-26-2007-StudyID-NA-31252
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-193/07-26-2007-StudyID-NA-31252/CT
+🧠 Seg shape: (530, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:18:14 Postprocessing
+📂 Patient: LUNG1-194, Study folder: 09-24-2007-StudyID-NA-07383
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-194/09-24-2007-StudyID-NA-07383/CT
+🧠 Seg shape: (640, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:18:39 Postprocessing
+📂 Patient: LUNG1-195, Study folder: 07-30-2007-StudyID-NA-11824
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-195/07-30-2007-StudyID-NA-11824/CT
+🧠 Seg shape: (360, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:19:00 Postprocessing
+📂 Patient: LUNG1-196, Study folder: 11-10-2007-StudyID-NA-60648
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-196/11-10-2007-StudyID-NA-60648/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:19:21 Postprocessing
+📂 Patient: LUNG1-197, Study folder: 09-09-2007-StudyID-NA-82706
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-197/09-09-2007-StudyID-NA-82706/CT
+🧠 Seg shape: (715, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:19:52 Postprocessing
+📂 Patient: LUNG1-198, Study folder: 10-01-2007-StudyID-NA-93842
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-198/10-01-2007-StudyID-NA-93842/CT
+🧠 Seg shape: (655, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:20:17 Postprocessing
+📂 Patient: LUNG1-199, Study folder: 09-09-2007-StudyID-NA-11418
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-199/09-09-2007-StudyID-NA-11418/CT
+🧠 Seg shape: (545, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:20:41 Postprocessing
+📂 Patient: LUNG1-200, Study folder: 09-02-2007-NA-NA-56233
+📁 Elements inside study: ['SEG', 'CT', 'Other_2']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-200/09-02-2007-NA-NA-56233/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:21:08 Postprocessing
+📂 Patient: LUNG1-201, Study folder: 09-10-2007-StudyID-NA-60967
+📁 Elements inside study: ['CT', 'Other_2', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-201/09-10-2007-StudyID-NA-60967/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:21:34 Postprocessing
+📂 Patient: LUNG1-202, Study folder: 05-29-2010-NA-NA-47068
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-202/05-29-2010-NA-NA-47068/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:21:59 Postprocessing
+📂 Patient: LUNG1-203, Study folder: 01-01-2014-StudyID-NA-03521
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-203/01-01-2014-StudyID-NA-03521/CT
+🧠 Seg shape: (560, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:22:26 Postprocessing
+📂 Patient: LUNG1-204, Study folder: 01-01-2014-StudyID-NA-32038
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-204/01-01-2014-StudyID-NA-32038/CT
+🧠 Seg shape: (552, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:22:46 Postprocessing
+📂 Patient: LUNG1-205, Study folder: 11-21-2007-StudyID-NA-09585
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-205/11-21-2007-StudyID-NA-09585/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:23:05 Postprocessing
+📂 Patient: LUNG1-206, Study folder: 10-06-2007-StudyID-NA-84710
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-206/10-06-2007-StudyID-NA-84710/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:23:34 Postprocessing
+📂 Patient: LUNG1-207, Study folder: 01-01-2014-StudyID-NA-35022
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-207/01-01-2014-StudyID-NA-35022/CT
+🧠 Seg shape: (620, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:23:58 Postprocessing
+📂 Patient: LUNG1-208, Study folder: 10-11-2007-StudyID-NA-72398
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-208/10-11-2007-StudyID-NA-72398/CT
+🧠 Seg shape: (580, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:24:24 Postprocessing
+📂 Patient: LUNG1-209, Study folder: 01-01-2014-StudyID-NA-14599
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-209/01-01-2014-StudyID-NA-14599/CT
+🧠 Seg shape: (600, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:24:48 Postprocessing
+📂 Patient: LUNG1-210, Study folder: 10-08-2007-StudyID-NA-80704
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-210/10-08-2007-StudyID-NA-80704/CT
+🧠 Seg shape: (131, 512, 512), 1 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:25:13 Postprocessing
+📂 Patient: LUNG1-211, Study folder: 11-11-2007-StudyID-NA-97016
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-211/11-11-2007-StudyID-NA-97016/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:25:34 Postprocessing
+📂 Patient: LUNG1-212, Study folder: 10-29-2007-StudyID-NA-74883
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-212/10-29-2007-StudyID-NA-74883/CT
+🧠 Seg shape: (555, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:25:59 Postprocessing
+📂 Patient: LUNG1-213, Study folder: 11-14-2007-StudyID-NA-27254
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-213/11-14-2007-StudyID-NA-27254/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:26:21 Postprocessing
+📂 Patient: LUNG1-214, Study folder: 10-29-2007-StudyID-NA-03062
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-214/10-29-2007-StudyID-NA-03062/CT
+🧠 Seg shape: (525, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:26:45 Postprocessing
+📂 Patient: LUNG1-215, Study folder: 11-23-2007-StudyID-NA-70193
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-215/11-23-2007-StudyID-NA-70193/CT
+🧠 Seg shape: (375, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:27:05 Postprocessing
+📂 Patient: LUNG1-216, Study folder: 12-01-2007-StudyID-NA-36382
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-216/12-01-2007-StudyID-NA-36382/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:27:32 Postprocessing
+📂 Patient: LUNG1-217, Study folder: 01-23-2008-StudyID-NA-12538
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-217/01-23-2008-StudyID-NA-12538/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:27:54 Postprocessing
+📂 Patient: LUNG1-218, Study folder: 12-09-2007-StudyID-NA-08708
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-218/12-09-2007-StudyID-NA-08708/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:28:15 Postprocessing
+📂 Patient: LUNG1-219, Study folder: 12-21-2007-StudyID-NA-67789
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-219/12-21-2007-StudyID-NA-67789/CT
+🧠 Seg shape: (279, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:28:36 Postprocessing
+📂 Patient: LUNG1-220, Study folder: 12-20-2007-StudyID-NA-41451
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-220/12-20-2007-StudyID-NA-41451/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:28:56 Postprocessing
+📂 Patient: LUNG1-221, Study folder: 12-27-2007-StudyID-NA-77670
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-221/12-27-2007-StudyID-NA-77670/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:29:20 Postprocessing
+📂 Patient: LUNG1-222, Study folder: 12-29-2007-StudyID-NA-39880
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-222/12-29-2007-StudyID-NA-39880/CT
+🧠 Seg shape: (436, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:29:42 Postprocessing
+📂 Patient: LUNG1-223, Study folder: 12-16-2007-StudyID-NA-19140
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-223/12-16-2007-StudyID-NA-19140/CT
+🧠 Seg shape: (645, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:30:10 Postprocessing
+📂 Patient: LUNG1-224, Study folder: 12-13-2007-StudyID-NA-84005
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-224/12-13-2007-StudyID-NA-84005/CT
+🧠 Seg shape: (465, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:30:30 Postprocessing
+📂 Patient: LUNG1-225, Study folder: 12-13-2007-StudyID-NA-32432
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-225/12-13-2007-StudyID-NA-32432/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:30:58 Postprocessing
+📂 Patient: LUNG1-226, Study folder: 02-09-2008-StudyID-NA-35479
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-226/02-09-2008-StudyID-NA-35479/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:31:19 Postprocessing
+📂 Patient: LUNG1-227, Study folder: 01-09-2008-StudyID-NA-41490
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-227/01-09-2008-StudyID-NA-41490/CT
+🧠 Seg shape: (590, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:31:44 Postprocessing
+📂 Patient: LUNG1-228, Study folder: 01-01-2014-StudyID-NA-77539
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-228/01-01-2014-StudyID-NA-77539/CT
+🧠 Seg shape: (360, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:32:03 Postprocessing
+📂 Patient: LUNG1-229, Study folder: 01-03-2008-StudyID-NA-22809
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-229/01-03-2008-StudyID-NA-22809/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:32:23 Postprocessing
+📂 Patient: LUNG1-230, Study folder: 01-23-2008-NA-NA-32295
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-230/01-23-2008-NA-NA-32295/CT
+🧠 Seg shape: (465, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:32:45 Postprocessing
+📂 Patient: LUNG1-231, Study folder: 02-17-2008-StudyID-NA-96331
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-231/02-17-2008-StudyID-NA-96331/CT
+🧠 Seg shape: (660, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:33:11 Postprocessing
+📂 Patient: LUNG1-232, Study folder: 04-21-2008-StudyID-NA-83266
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-232/04-21-2008-StudyID-NA-83266/CT
+🧠 Seg shape: (680, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:33:38 Postprocessing
+📂 Patient: LUNG1-233, Study folder: 02-07-2008-StudyID-NA-75540
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-233/02-07-2008-StudyID-NA-75540/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:34:06 Postprocessing
+📂 Patient: LUNG1-234, Study folder: 02-08-2008-StudyID-NA-15406
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-234/02-08-2008-StudyID-NA-15406/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:34:27 Postprocessing
+📂 Patient: LUNG1-235, Study folder: 04-12-2008-StudyID-NA-92355
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-235/04-12-2008-StudyID-NA-92355/CT
+🧠 Seg shape: (645, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:34:53 Postprocessing
+📂 Patient: LUNG1-236, Study folder: 02-16-2008-StudyID-NA-87264
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-236/02-16-2008-StudyID-NA-87264/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:35:14 Postprocessing
+📂 Patient: LUNG1-237, Study folder: 03-06-2008-StudyID-NA-38512
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-237/03-06-2008-StudyID-NA-38512/CT
+🧠 Seg shape: (630, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:35:39 Postprocessing
+📂 Patient: LUNG1-238, Study folder: 02-23-2008-NA-NA-66331
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-238/02-23-2008-NA-NA-66331/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:36:01 Postprocessing
+📂 Patient: LUNG1-239, Study folder: 03-12-2008-StudyID-NA-23877
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-239/03-12-2008-StudyID-NA-23877/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:36:27 Postprocessing
+📂 Patient: LUNG1-240, Study folder: 05-26-2008-StudyID-NA-19040
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-240/05-26-2008-StudyID-NA-19040/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:36:55 Postprocessing
+📂 Patient: LUNG1-241, Study folder: 05-02-2008-StudyID-NA-66003
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-241/05-02-2008-StudyID-NA-66003/CT
+🧠 Seg shape: (680, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:37:24 Postprocessing
+📂 Patient: LUNG1-242, Study folder: 05-24-2008-StudyID-NA-01548
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-242/05-24-2008-StudyID-NA-01548/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:37:50 Postprocessing
+📂 Patient: LUNG1-243, Study folder: 04-14-2008-StudyID-NA-72904
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-243/04-14-2008-StudyID-NA-72904/CT
+🧠 Seg shape: (376, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:38:10 Postprocessing
+📂 Patient: LUNG1-244, Study folder: 04-13-2008-StudyID-NA-48351
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-244/04-13-2008-StudyID-NA-48351/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:38:38 Postprocessing
+📂 Patient: LUNG1-245, Study folder: 05-01-2008-StudyID-NA-50417
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-245/05-01-2008-StudyID-NA-50417/CT
+🧠 Seg shape: (520, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:39:06 Postprocessing
+📂 Patient: LUNG1-246, Study folder: 06-29-2008-StudyID-NA-78963
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-246/06-29-2008-StudyID-NA-78963/CT
+🧠 Seg shape: (575, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:39:31 Postprocessing
+📂 Patient: LUNG1-247, Study folder: 04-24-2008-StudyID-NA-85745
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-247/04-24-2008-StudyID-NA-85745/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:39:58 Postprocessing
+📂 Patient: LUNG1-248, Study folder: 04-28-2008-StudyID-NA-40642
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-248/04-28-2008-StudyID-NA-40642/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:40:26 Postprocessing
+📂 Patient: LUNG1-249, Study folder: 06-13-2008-StudyID-NA-25791
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-249/06-13-2008-StudyID-NA-25791/CT
+🧠 Seg shape: (465, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:40:49 Postprocessing
+📂 Patient: LUNG1-250, Study folder: 05-10-2008-NA-NA-54883
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-250/05-10-2008-NA-NA-54883/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:41:16 Postprocessing
+📂 Patient: LUNG1-251, Study folder: 04-26-2008-NA-NA-77891
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-251/04-26-2008-NA-NA-77891/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:41:44 Postprocessing
+📂 Patient: LUNG1-252, Study folder: 05-10-2008-StudyID-NA-16817
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-252/05-10-2008-StudyID-NA-16817/CT
+🧠 Seg shape: (582, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:42:06 Postprocessing
+📂 Patient: LUNG1-253, Study folder: 05-08-2008-StudyID-NA-37800
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-253/05-08-2008-StudyID-NA-37800/CT
+🧠 Seg shape: (364, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:42:27 Postprocessing
+📂 Patient: LUNG1-254, Study folder: 06-21-2008-NA-NA-45808
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-254/06-21-2008-NA-NA-45808/CT
+🧠 Seg shape: (630, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:42:55 Postprocessing
+📂 Patient: LUNG1-255, Study folder: 05-15-2008-StudyID-NA-50376
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-255/05-15-2008-StudyID-NA-50376/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:43:23 Postprocessing
+📂 Patient: LUNG1-256, Study folder: 06-26-2008-StudyID-NA-40182
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-256/06-26-2008-StudyID-NA-40182/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:43:52 Postprocessing
+📂 Patient: LUNG1-257, Study folder: 06-02-2008-StudyID-NA-05516
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-257/06-02-2008-StudyID-NA-05516/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:44:20 Postprocessing
+📂 Patient: LUNG1-258, Study folder: 06-20-2008-StudyID-NA-37077
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-258/06-20-2008-StudyID-NA-37077/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:44:48 Postprocessing
+📂 Patient: LUNG1-259, Study folder: 06-13-2008-StudyID-NA-59577
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-259/06-13-2008-StudyID-NA-59577/CT
+🧠 Seg shape: (520, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:45:15 Postprocessing
+📂 Patient: LUNG1-260, Study folder: 06-01-2008-StudyID-NA-61883
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-260/06-01-2008-StudyID-NA-61883/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:45:43 Postprocessing
+📂 Patient: LUNG1-261, Study folder: 05-25-2008-StudyID-NA-05528
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-261/05-25-2008-StudyID-NA-05528/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:46:07 Postprocessing
+📂 Patient: LUNG1-262, Study folder: 06-14-2008-StudyID-NA-35401
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-262/06-14-2008-StudyID-NA-35401/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:46:28 Postprocessing
+📂 Patient: LUNG1-263, Study folder: 06-15-2008-StudyID-NA-17275
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-263/06-15-2008-StudyID-NA-17275/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:46:53 Postprocessing
+📂 Patient: LUNG1-264, Study folder: 06-22-2008-StudyID-NA-08016
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-264/06-22-2008-StudyID-NA-08016/CT
+🧠 Seg shape: (650, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:47:21 Postprocessing
+📂 Patient: LUNG1-265, Study folder: 07-07-2008-NA-NA-53622
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-265/07-07-2008-NA-NA-53622/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:47:49 Postprocessing
+📂 Patient: LUNG1-266, Study folder: 06-15-2008-StudyID-NA-16749
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-266/06-15-2008-StudyID-NA-16749/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:48:11 Postprocessing
+📂 Patient: LUNG1-267, Study folder: 06-21-2008-StudyID-NA-57835
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-267/06-21-2008-StudyID-NA-57835/CT
+🧠 Seg shape: (645, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:48:37 Postprocessing
+📂 Patient: LUNG1-268, Study folder: 06-29-2008-StudyID-NA-77442
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-268/06-29-2008-StudyID-NA-77442/CT
+🧠 Seg shape: (660, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:49:05 Postprocessing
+📂 Patient: LUNG1-269, Study folder: 08-31-2008-StudyID-NA-27195
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-269/08-31-2008-StudyID-NA-27195/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:49:34 Postprocessing
+📂 Patient: LUNG1-270, Study folder: 06-26-2008-StudyID-NA-10465
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-270/06-26-2008-StudyID-NA-10465/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:50:03 Postprocessing
+📂 Patient: LUNG1-271, Study folder: 07-05-2008-StudyID-NA-19150
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-271/07-05-2008-StudyID-NA-19150/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:50:25 Postprocessing
+📂 Patient: LUNG1-272, Study folder: 07-12-2008-StudyID-NA-21331
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-272/07-12-2008-StudyID-NA-21331/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:50:57 Postprocessing
+📂 Patient: LUNG1-273, Study folder: 07-11-2008-StudyID-NA-25746
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-273/07-11-2008-StudyID-NA-25746/CT
+🧠 Seg shape: (408, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:51:25 Postprocessing
+📂 Patient: LUNG1-274, Study folder: 08-07-2008-StudyID-NA-06670
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-274/08-07-2008-StudyID-NA-06670/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:51:57 Postprocessing
+📂 Patient: LUNG1-275, Study folder: 09-18-2008-StudyID-NA-06365
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-275/09-18-2008-StudyID-NA-06365/CT
+🧠 Seg shape: (660, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:52:23 Postprocessing
+📂 Patient: LUNG1-276, Study folder: 08-09-2008-StudyID-NA-11607
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-276/08-09-2008-StudyID-NA-11607/CT
+🧠 Seg shape: (564, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:52:44 Postprocessing
+📂 Patient: LUNG1-277, Study folder: 08-14-2008-StudyID-NA-12722
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-277/08-14-2008-StudyID-NA-12722/CT
+🧠 Seg shape: (520, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:53:11 Postprocessing
+📂 Patient: LUNG1-278, Study folder: 08-07-2008-StudyID-NA-85784
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-278/08-07-2008-StudyID-NA-85784/CT
+🧠 Seg shape: (720, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:53:36 Postprocessing
+📂 Patient: LUNG1-279, Study folder: 07-21-2008-NA-NA-29041
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-279/07-21-2008-NA-NA-29041/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:54:03 Postprocessing
+📂 Patient: LUNG1-280, Study folder: 10-20-2008-StudyID-NA-80408
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-280/10-20-2008-StudyID-NA-80408/CT
+🧠 Seg shape: (520, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:54:28 Postprocessing
+📂 Patient: LUNG1-281, Study folder: 08-04-2008-StudyID-NA-62109
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-281/08-04-2008-StudyID-NA-62109/CT
+🧠 Seg shape: (404, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:54:51 Postprocessing
+📂 Patient: LUNG1-282, Study folder: 08-08-2008-StudyID-NA-37762
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-282/08-08-2008-StudyID-NA-37762/CT
+🧠 Seg shape: (368, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:55:13 Postprocessing
+📂 Patient: LUNG1-283, Study folder: 08-04-2008-StudyID-NA-17254
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-283/08-04-2008-StudyID-NA-17254/CT
+🧠 Seg shape: (432, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:55:36 Postprocessing
+📂 Patient: LUNG1-284, Study folder: 08-21-2008-StudyID-NA-73519
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-284/08-21-2008-StudyID-NA-73519/CT
+🧠 Seg shape: (388, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:55:59 Postprocessing
+📂 Patient: LUNG1-285, Study folder: 08-03-2008-StudyID-NA-05059
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-285/08-03-2008-StudyID-NA-05059/CT
+🧠 Seg shape: (450, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:56:20 Postprocessing
+📂 Patient: LUNG1-286, Study folder: 11-23-2008-StudyID-NA-78742
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-286/11-23-2008-StudyID-NA-78742/CT
+🧠 Seg shape: (544, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 19:56:48 Postprocessing
+📂 Patient: LUNG1-287, Study folder: 08-15-2008-StudyID-NA-64132
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-287/08-15-2008-StudyID-NA-64132/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:57:09 Postprocessing
+📂 Patient: LUNG1-288, Study folder: 09-11-2008-StudyID-NA-92514
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-288/09-11-2008-StudyID-NA-92514/CT
+🧠 Seg shape: (660, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:57:34 Postprocessing
+📂 Patient: LUNG1-289, Study folder: 08-23-2008-StudyID-NA-97557
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-289/08-23-2008-StudyID-NA-97557/CT
+🧠 Seg shape: (625, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:58:00 Postprocessing
+📂 Patient: LUNG1-290, Study folder: 08-25-2008-StudyID-NA-82911
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-290/08-25-2008-StudyID-NA-82911/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:58:27 Postprocessing
+📂 Patient: LUNG1-291, Study folder: 08-25-2008-StudyID-NA-33948
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-291/08-25-2008-StudyID-NA-33948/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:58:55 Postprocessing
+📂 Patient: LUNG1-292, Study folder: 11-08-2008-StudyID-NA-74317
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-292/11-08-2008-StudyID-NA-74317/CT
+🧠 Seg shape: (375, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:59:21 Postprocessing
+📂 Patient: LUNG1-293, Study folder: 08-28-2008-StudyID-NA-71191
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-293/08-28-2008-StudyID-NA-71191/CT
+🧠 Seg shape: (665, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 19:59:47 Postprocessing
+📂 Patient: LUNG1-294, Study folder: 09-05-2008-StudyID-NA-51928
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-294/09-05-2008-StudyID-NA-51928/CT
+🧠 Seg shape: (450, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:00:07 Postprocessing
+📂 Patient: LUNG1-295, Study folder: 09-25-2008-StudyID-NA-07898
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-295/09-25-2008-StudyID-NA-07898/CT
+🧠 Seg shape: (650, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:00:32 Postprocessing
+📂 Patient: LUNG1-296, Study folder: 10-03-2008-StudyID-NA-14251
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-296/10-03-2008-StudyID-NA-14251/CT
+🧠 Seg shape: (532, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:00:59 Postprocessing
+📂 Patient: LUNG1-297, Study folder: 11-12-2008-StudyID-NA-50288
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-297/11-12-2008-StudyID-NA-50288/CT
+🧠 Seg shape: (408, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:01:22 Postprocessing
+📂 Patient: LUNG1-298, Study folder: 09-21-2008-StudyID-NA-89812
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-298/09-21-2008-StudyID-NA-89812/CT
+🧠 Seg shape: (666, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:01:46 Postprocessing
+📂 Patient: LUNG1-299, Study folder: 10-04-2008-StudyID-NA-74587
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-299/10-04-2008-StudyID-NA-74587/CT
+🧠 Seg shape: (279, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:02:08 Postprocessing
+📂 Patient: LUNG1-300, Study folder: 10-11-2008-StudyID-NA-86802
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-300/10-11-2008-StudyID-NA-86802/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:02:35 Postprocessing
+📂 Patient: LUNG1-301, Study folder: 10-02-2008-NA-NA-22497
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-301/10-02-2008-NA-NA-22497/CT
+🧠 Seg shape: (238, 512, 512), 2 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:03:00 Postprocessing
+📂 Patient: LUNG1-302, Study folder: 10-16-2008-NA-NA-30164
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-302/10-16-2008-NA-NA-30164/CT
+🧠 Seg shape: (488, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:03:25 Postprocessing
+📂 Patient: LUNG1-303, Study folder: 10-12-2008-StudyID-NA-60013
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-303/10-12-2008-StudyID-NA-60013/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:03:53 Postprocessing
+📂 Patient: LUNG1-304, Study folder: 10-18-2008-StudyID-NA-02364
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-304/10-18-2008-StudyID-NA-02364/CT
+🧠 Seg shape: (376, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:04:15 Postprocessing
+📂 Patient: LUNG1-305, Study folder: 10-19-2008-StudyID-NA-25289
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-305/10-19-2008-StudyID-NA-25289/CT
+🧠 Seg shape: (396, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:04:42 Postprocessing
+📂 Patient: LUNG1-306, Study folder: 10-19-2008-StudyID-NA-29716
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-306/10-19-2008-StudyID-NA-29716/CT
+🧠 Seg shape: (408, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:05:09 Postprocessing
+📂 Patient: LUNG1-307, Study folder: 10-25-2008-StudyID-NA-07013
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-307/10-25-2008-StudyID-NA-07013/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:05:37 Postprocessing
+📂 Patient: LUNG1-308, Study folder: 10-25-2008-StudyID-NA-58297
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-308/10-25-2008-StudyID-NA-58297/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:05:57 Postprocessing
+📂 Patient: LUNG1-309, Study folder: 11-03-2008-StudyID-NA-77849
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-309/11-03-2008-StudyID-NA-77849/CT
+🧠 Seg shape: (393, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:06:23 Postprocessing
+📂 Patient: LUNG1-310, Study folder: 10-30-2008-StudyID-NA-76428
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-310/10-30-2008-StudyID-NA-76428/CT
+🧠 Seg shape: (715, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:06:51 Postprocessing
+📂 Patient: LUNG1-311, Study folder: 11-09-2008-StudyID-NA-00378
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-311/11-09-2008-StudyID-NA-00378/CT
+🧠 Seg shape: (610, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:07:16 Postprocessing
+📂 Patient: LUNG1-312, Study folder: 11-07-2008-NA-NA-20407
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-312/11-07-2008-NA-NA-20407/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:07:44 Postprocessing
+📂 Patient: LUNG1-313, Study folder: 11-28-2008-StudyID-NA-43061
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-313/11-28-2008-StudyID-NA-43061/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:08:11 Postprocessing
+📂 Patient: LUNG1-314, Study folder: 12-05-2008-NA-NA-76077
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-314/12-05-2008-NA-NA-76077/CT
+🧠 Seg shape: (384, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:08:40 Postprocessing
+📂 Patient: LUNG1-315, Study folder: 11-15-2008-StudyID-NA-37285
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-315/11-15-2008-StudyID-NA-37285/CT
+🧠 Seg shape: (630, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:09:05 Postprocessing
+📂 Patient: LUNG1-316, Study folder: 11-28-2008-NA-NA-76361
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-316/11-28-2008-NA-NA-76361/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:09:32 Postprocessing
+📂 Patient: LUNG1-317, Study folder: 12-03-2008-StudyID-NA-67637
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-317/12-03-2008-StudyID-NA-67637/CT
+🧠 Seg shape: (345, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:09:57 Postprocessing
+📂 Patient: LUNG1-318, Study folder: 02-06-2009-StudyID-NA-84911
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-318/02-06-2009-StudyID-NA-84911/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:10:24 Postprocessing
+📂 Patient: LUNG1-319, Study folder: 01-24-2009-NA-NA-83582
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-319/01-24-2009-NA-NA-83582/CT
+🧠 Seg shape: (544, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:10:52 Postprocessing
+📂 Patient: LUNG1-320, Study folder: 05-07-2009-StudyID-NA-86012
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-320/05-07-2009-StudyID-NA-86012/CT
+🧠 Seg shape: (393, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:11:19 Postprocessing
+📂 Patient: LUNG1-321, Study folder: 12-24-2008-StudyID-NA-98086
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-321/12-24-2008-StudyID-NA-98086/CT
+🧠 Seg shape: (650, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:11:45 Postprocessing
+📂 Patient: LUNG1-322, Study folder: 01-31-2009-NA-NA-24702
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-322/01-31-2009-NA-NA-24702/CT
+🧠 Seg shape: (660, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:12:12 Postprocessing
+📂 Patient: LUNG1-323, Study folder: 03-01-2009-StudyID-NA-55278
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-323/03-01-2009-StudyID-NA-55278/CT
+🧠 Seg shape: (528, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:12:43 Postprocessing
+📂 Patient: LUNG1-324, Study folder: 03-12-2009-NA-NA-65810
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-324/03-12-2009-NA-NA-65810/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:13:10 Postprocessing
+📂 Patient: LUNG1-325, Study folder: 03-22-2009-NA-NA-13387
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-325/03-22-2009-NA-NA-13387/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:13:38 Postprocessing
+📂 Patient: LUNG1-326, Study folder: 03-21-2009-StudyID-NA-81321
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-326/03-21-2009-StudyID-NA-81321/CT
+🧠 Seg shape: (448, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:14:09 Postprocessing
+📂 Patient: LUNG1-327, Study folder: 03-28-2009-NA-NA-61917
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-327/03-28-2009-NA-NA-61917/CT
+🧠 Seg shape: (524, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:14:36 Postprocessing
+📂 Patient: LUNG1-328, Study folder: 03-28-2009-StudyID-NA-76019
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-328/03-28-2009-StudyID-NA-76019/CT
+🧠 Seg shape: (528, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:15:03 Postprocessing
+📂 Patient: LUNG1-329, Study folder: 03-20-2010-NA-NA-43579
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-329/03-20-2010-NA-NA-43579/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:15:30 Postprocessing
+📂 Patient: LUNG1-330, Study folder: 04-03-2009-NA-NA-46378
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-330/04-03-2009-NA-NA-46378/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:15:58 Postprocessing
+📂 Patient: LUNG1-331, Study folder: 05-04-2009-StudyID-NA-03147
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-331/05-04-2009-StudyID-NA-03147/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:16:31 Postprocessing
+📂 Patient: LUNG1-332, Study folder: 04-09-2009-StudyID-NA-91132
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-332/04-09-2009-StudyID-NA-91132/CT
+🧠 Seg shape: (620, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:17:03 Postprocessing
+📂 Patient: LUNG1-333, Study folder: 04-24-2009-NA-NA-45030
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-333/04-24-2009-NA-NA-45030/CT
+🧠 Seg shape: (380, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:17:25 Postprocessing
+📂 Patient: LUNG1-334, Study folder: 05-21-2009-StudyID-NA-79804
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-334/05-21-2009-StudyID-NA-79804/CT
+🧠 Seg shape: (495, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:17:47 Postprocessing
+📂 Patient: LUNG1-335, Study folder: 04-25-2009-StudyID-NA-73930
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-335/04-25-2009-StudyID-NA-73930/CT
+🧠 Seg shape: (402, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:18:14 Postprocessing
+📂 Patient: LUNG1-336, Study folder: 04-27-2009-NA-NA-25172
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-336/04-27-2009-NA-NA-25172/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:18:42 Postprocessing
+📂 Patient: LUNG1-337, Study folder: 05-04-2009-StudyID-NA-15683
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-337/05-04-2009-StudyID-NA-15683/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:19:08 Postprocessing
+📂 Patient: LUNG1-338, Study folder: 05-07-2009-NA-NA-07596
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-338/05-07-2009-NA-NA-07596/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:19:36 Postprocessing
+📂 Patient: LUNG1-339, Study folder: 05-09-2009-StudyID-NA-94249
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-339/05-09-2009-StudyID-NA-94249/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:20:04 Postprocessing
+📂 Patient: LUNG1-340, Study folder: 05-02-2009-StudyID-NA-86385
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-340/05-02-2009-StudyID-NA-86385/CT
+🧠 Seg shape: (368, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:20:26 Postprocessing
+📂 Patient: LUNG1-341, Study folder: 05-10-2009-StudyID-NA-62724
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-341/05-10-2009-StudyID-NA-62724/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:20:53 Postprocessing
+📂 Patient: LUNG1-342, Study folder: 07-05-2009-StudyID-NA-33638
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-342/07-05-2009-StudyID-NA-33638/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:21:21 Postprocessing
+📂 Patient: LUNG1-343, Study folder: 05-14-2009-StudyID-NA-95338
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-343/05-14-2009-StudyID-NA-95338/CT
+🧠 Seg shape: (376, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:21:41 Postprocessing
+📂 Patient: LUNG1-344, Study folder: 06-08-2009-NA-NA-79985
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-344/06-08-2009-NA-NA-79985/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:22:09 Postprocessing
+📂 Patient: LUNG1-345, Study folder: 05-30-2009-StudyID-NA-32193
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-345/05-30-2009-StudyID-NA-32193/CT
+🧠 Seg shape: (282, 512, 512), 3 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:22:30 Postprocessing
+📂 Patient: LUNG1-346, Study folder: 05-30-2009-NA-NA-51957
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-346/05-30-2009-NA-NA-51957/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:22:57 Postprocessing
+📂 Patient: LUNG1-347, Study folder: 06-04-2009-StudyID-NA-51574
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-347/06-04-2009-StudyID-NA-51574/CT
+🧠 Seg shape: (376, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:23:18 Postprocessing
+📂 Patient: LUNG1-348, Study folder: 06-04-2009-NA-NA-62567
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-348/06-04-2009-NA-NA-62567/CT
+🧠 Seg shape: (528, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:23:52 Postprocessing
+📂 Patient: LUNG1-349, Study folder: 05-31-2009-StudyID-NA-56351
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-349/05-31-2009-StudyID-NA-56351/CT
+🧠 Seg shape: (524, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:24:23 Postprocessing
+📂 Patient: LUNG1-350, Study folder: 07-17-2009-StudyID-NA-96972
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-350/07-17-2009-StudyID-NA-96972/CT
+🧠 Seg shape: (416, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:24:46 Postprocessing
+📂 Patient: LUNG1-351, Study folder: 06-01-2009-NA-NA-63603
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-351/06-01-2009-NA-NA-63603/CT
+🧠 Seg shape: (520, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:25:12 Postprocessing
+📂 Patient: LUNG1-352, Study folder: 06-06-2009-NA-NA-09860
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-352/06-06-2009-NA-NA-09860/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:25:40 Postprocessing
+📂 Patient: LUNG1-353, Study folder: 07-04-2009-StudyID-NA-36603
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-353/07-04-2009-StudyID-NA-36603/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:26:08 Postprocessing
+📂 Patient: LUNG1-354, Study folder: 08-14-2009-NA-NA-28314
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-354/08-14-2009-NA-NA-28314/CT
+🧠 Seg shape: (540, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:26:39 Postprocessing
+📂 Patient: LUNG1-355, Study folder: 09-10-2009-NA-NA-47290
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-355/09-10-2009-NA-NA-47290/CT
+🧠 Seg shape: (510, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:27:00 Postprocessing
+📂 Patient: LUNG1-356, Study folder: 06-04-2010-NA-NA-86844
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-356/06-04-2010-NA-NA-86844/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:27:25 Postprocessing
+📂 Patient: LUNG1-357, Study folder: 11-06-2009-NA-NA-21895
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-357/11-06-2009-NA-NA-21895/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:27:52 Postprocessing
+📂 Patient: LUNG1-358, Study folder: 11-27-2009-NA-NA-53106
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-358/11-27-2009-NA-NA-53106/CT
+🧠 Seg shape: (520, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:28:16 Postprocessing
+📂 Patient: LUNG1-359, Study folder: 12-04-2009-NA-NA-10684
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-359/12-04-2009-NA-NA-10684/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:28:42 Postprocessing
+📂 Patient: LUNG1-360, Study folder: 02-24-2010-NA-NA-67335
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-360/02-24-2010-NA-NA-67335/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:29:10 Postprocessing
+📂 Patient: LUNG1-361, Study folder: 04-11-2010-NA-NA-81795
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-361/04-11-2010-NA-NA-81795/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:29:38 Postprocessing
+📂 Patient: LUNG1-362, Study folder: 02-20-2010-NA-NA-75493
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-362/02-20-2010-NA-NA-75493/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:30:04 Postprocessing
+📂 Patient: LUNG1-363, Study folder: 04-30-2010-NA-NA-46947
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-363/04-30-2010-NA-NA-46947/CT
+🧠 Seg shape: (470, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:30:25 Postprocessing
+📂 Patient: LUNG1-364, Study folder: 02-27-2010-NA-NA-09037
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-364/02-27-2010-NA-NA-09037/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:30:52 Postprocessing
+📂 Patient: LUNG1-365, Study folder: 04-01-2010-NA-NA-26011
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-365/04-01-2010-NA-NA-26011/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:31:18 Postprocessing
+📂 Patient: LUNG1-366, Study folder: 04-12-2010-NA-NA-44824
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-366/04-12-2010-NA-NA-44824/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:31:44 Postprocessing
+📂 Patient: LUNG1-367, Study folder: 03-03-2010-NA-NA-79271
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-367/03-03-2010-NA-NA-79271/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:32:11 Postprocessing
+📂 Patient: LUNG1-368, Study folder: 03-03-2010-NA-NA-28672
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-368/03-03-2010-NA-NA-28672/CT
+🧠 Seg shape: (655, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:32:37 Postprocessing
+📂 Patient: LUNG1-369, Study folder: 02-25-2010-NA-NA-41022
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-369/02-25-2010-NA-NA-41022/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:33:04 Postprocessing
+📂 Patient: LUNG1-370, Study folder: 02-20-2010-NA-NA-94210
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-370/02-20-2010-NA-NA-94210/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:33:32 Postprocessing
+📂 Patient: LUNG1-371, Study folder: 04-12-2010-NA-NA-25607
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-371/04-12-2010-NA-NA-25607/CT
+🧠 Seg shape: (865, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:34:06 Postprocessing
+📂 Patient: LUNG1-372, Study folder: 04-29-2010-StudyID-NA-58806
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-372/04-29-2010-StudyID-NA-58806/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:34:41 Postprocessing
+📂 Patient: LUNG1-373, Study folder: 06-07-2010-NA-NA-45152
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-373/06-07-2010-NA-NA-45152/CT
+🧠 Seg shape: (564, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:35:02 Postprocessing
+📂 Patient: LUNG1-374, Study folder: 03-25-2010-NA-NA-06448
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-374/03-25-2010-NA-NA-06448/CT
+🧠 Seg shape: (650, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:35:28 Postprocessing
+📂 Patient: LUNG1-375, Study folder: 03-12-2010-NA-NA-95675
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-375/03-12-2010-NA-NA-95675/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:35:56 Postprocessing
+📂 Patient: LUNG1-376, Study folder: 02-27-2010-NA-NA-88135
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-376/02-27-2010-NA-NA-88135/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:36:22 Postprocessing
+📂 Patient: LUNG1-377, Study folder: 03-04-2010-NA-NA-80035
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-377/03-04-2010-NA-NA-80035/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:36:48 Postprocessing
+📂 Patient: LUNG1-378, Study folder: 03-18-2010-NA-NA-62551
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-378/03-18-2010-NA-NA-62551/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:37:14 Postprocessing
+📂 Patient: LUNG1-379, Study folder: 03-14-2010-NA-NA-96127
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-379/03-14-2010-NA-NA-96127/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:37:41 Postprocessing
+📂 Patient: LUNG1-380, Study folder: 04-01-2010-NA-NA-08572
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-380/04-01-2010-NA-NA-08572/CT
+🧠 Seg shape: (655, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:38:08 Postprocessing
+📂 Patient: LUNG1-381, Study folder: 03-20-2010-NA-NA-60601
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-381/03-20-2010-NA-NA-60601/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:38:34 Postprocessing
+📂 Patient: LUNG1-382, Study folder: 04-03-2010-NA-NA-51822
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-382/04-03-2010-NA-NA-51822/CT
+🧠 Seg shape: (660, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:38:59 Postprocessing
+📂 Patient: LUNG1-383, Study folder: 03-29-2010-NA-NA-84120
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-383/03-29-2010-NA-NA-84120/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:39:27 Postprocessing
+📂 Patient: LUNG1-384, Study folder: 03-21-2010-NA-NA-86252
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-384/03-21-2010-NA-NA-86252/CT
+🧠 Seg shape: (536, 512, 512), 4 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:39:55 Postprocessing
+📂 Patient: LUNG1-385, Study folder: 03-27-2010-NA-NA-88787
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-385/03-27-2010-NA-NA-88787/CT
+🧠 Seg shape: (570, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:40:19 Postprocessing
+📂 Patient: LUNG1-386, Study folder: 05-22-2010-NA-NA-06691
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-386/05-22-2010-NA-NA-06691/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:40:46 Postprocessing
+📂 Patient: LUNG1-387, Study folder: 04-16-2010-NA-NA-38981
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-387/04-16-2010-NA-NA-38981/CT
+🧠 Seg shape: (505, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:41:08 Postprocessing
+📂 Patient: LUNG1-388, Study folder: 04-17-2010-NA-NA-46237
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-388/04-17-2010-NA-NA-46237/CT
+🧠 Seg shape: (655, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:41:35 Postprocessing
+📂 Patient: LUNG1-389, Study folder: 06-14-2010-NA-NA-28618
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-389/06-14-2010-NA-NA-28618/CT
+🧠 Seg shape: (558, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:41:57 Postprocessing
+📂 Patient: LUNG1-390, Study folder: 04-19-2010-NA-NA-77103
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-390/04-19-2010-NA-NA-77103/CT
+🧠 Seg shape: (645, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:42:22 Postprocessing
+📂 Patient: LUNG1-391, Study folder: 04-25-2010-NA-NA-98911
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-391/04-25-2010-NA-NA-98911/CT
+🧠 Seg shape: (595, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:42:48 Postprocessing
+📂 Patient: LUNG1-392, Study folder: 04-25-2010-NA-NA-15473
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-392/04-25-2010-NA-NA-15473/CT
+🧠 Seg shape: (610, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:43:12 Postprocessing
+📂 Patient: LUNG1-393, Study folder: 05-02-2010-NA-NA-00919
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-393/05-02-2010-NA-NA-00919/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:43:40 Postprocessing
+📂 Patient: LUNG1-394, Study folder: 04-25-2010-NA-NA-26256
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-394/04-25-2010-NA-NA-26256/CT
+🧠 Seg shape: (475, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:44:03 Postprocessing
+📂 Patient: LUNG1-395, Study folder: 04-30-2010-NA-NA-08902
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-395/04-30-2010-NA-NA-08902/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:44:29 Postprocessing
+📂 Patient: LUNG1-396, Study folder: 05-01-2010-NA-NA-28227
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-396/05-01-2010-NA-NA-28227/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:44:58 Postprocessing
+📂 Patient: LUNG1-397, Study folder: 05-13-2010-NA-NA-55687
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-397/05-13-2010-NA-NA-55687/CT
+🧠 Seg shape: (695, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:45:28 Postprocessing
+📂 Patient: LUNG1-398, Study folder: 05-22-2010-NA-NA-01597
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-398/05-22-2010-NA-NA-01597/CT
+🧠 Seg shape: (615, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:45:54 Postprocessing
+📂 Patient: LUNG1-399, Study folder: 05-14-2010-NA-NA-97561
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-399/05-14-2010-NA-NA-97561/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:46:20 Postprocessing
+📂 Patient: LUNG1-400, Study folder: 05-20-2010-NA-NA-53382
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-400/05-20-2010-NA-NA-53382/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:46:45 Postprocessing
+📂 Patient: LUNG1-401, Study folder: 05-21-2010-NA-NA-21105
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-401/05-21-2010-NA-NA-21105/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:47:13 Postprocessing
+📂 Patient: LUNG1-402, Study folder: 05-31-2010-NA-NA-57367
+📁 Elements inside study: ['Other_2', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-402/05-31-2010-NA-NA-57367/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:47:40 Postprocessing
+📂 Patient: LUNG1-403, Study folder: 06-19-2010-NA-NA-70283
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-403/06-19-2010-NA-NA-70283/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:48:09 Postprocessing
+📂 Patient: LUNG1-404, Study folder: 06-19-2010-NA-NA-48208
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-404/06-19-2010-NA-NA-48208/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:48:34 Postprocessing
+📂 Patient: LUNG1-405, Study folder: 05-31-2010-NA-NA-60398
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-405/05-31-2010-NA-NA-60398/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:49:02 Postprocessing
+📂 Patient: LUNG1-406, Study folder: 06-13-2010-NA-NA-92766
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-406/06-13-2010-NA-NA-92766/CT
+🧠 Seg shape: (666, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:49:27 Postprocessing
+📂 Patient: LUNG1-407, Study folder: 06-18-2010-NA-NA-48049
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-407/06-18-2010-NA-NA-48049/CT
+🧠 Seg shape: (756, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:49:53 Postprocessing
+📂 Patient: LUNG1-408, Study folder: 06-18-2010-NA-NA-12138
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-408/06-18-2010-NA-NA-12138/CT
+🧠 Seg shape: (642, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:50:17 Postprocessing
+📂 Patient: LUNG1-409, Study folder: 06-17-2010-NA-NA-58404
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-409/06-17-2010-NA-NA-58404/CT
+🧠 Seg shape: (756, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:50:41 Postprocessing
+📂 Patient: LUNG1-410, Study folder: 07-08-2010-NA-NA-60028
+📁 Elements inside study: ['RT', 'CT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-410/07-08-2010-NA-NA-60028/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:51:09 Postprocessing
+📂 Patient: LUNG1-411, Study folder: 06-28-2010-NA-NA-76735
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-411/06-28-2010-NA-NA-76735/CT
+🧠 Seg shape: (680, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:51:38 Postprocessing
+📂 Patient: LUNG1-412, Study folder: 06-26-2010-NA-NA-48381
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-412/06-26-2010-NA-NA-48381/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:52:05 Postprocessing
+📂 Patient: LUNG1-413, Study folder: 07-12-2010-NA-NA-50110
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-413/07-12-2010-NA-NA-50110/CT
+🧠 Seg shape: (696, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:52:31 Postprocessing
+📂 Patient: LUNG1-414, Study folder: 07-10-2010-NA-NA-66211
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-414/07-10-2010-NA-NA-66211/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:53:00 Postprocessing
+📂 Patient: LUNG1-415, Study folder: 07-04-2010-NA-NA-18546
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-415/07-04-2010-NA-NA-18546/CT
+🧠 Seg shape: (732, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:53:25 Postprocessing
+📂 Patient: LUNG1-416, Study folder: 07-30-2010-NA-NA-71000
+📁 Elements inside study: ['RT', 'SEG', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-416/07-30-2010-NA-NA-71000/CT
+🧠 Seg shape: (786, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:53:51 Postprocessing
+📂 Patient: LUNG1-417, Study folder: 07-22-2010-NA-NA-22742
+📁 Elements inside study: ['CT', 'RT', 'SEG']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-417/07-22-2010-NA-NA-22742/CT
+🧠 Seg shape: (786, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:54:17 Postprocessing
+📂 Patient: LUNG1-418, Study folder: 07-15-2010-NA-NA-60673
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-418/07-15-2010-NA-NA-60673/CT
+🧠 Seg shape: (798, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:54:43 Postprocessing
+📂 Patient: LUNG1-419, Study folder: 07-17-2010-NA-NA-87475
+📁 Elements inside study: ['SEG', 'RT', 'CT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-419/07-17-2010-NA-NA-87475/CT
+🧠 Seg shape: (670, 512, 512), 5 segments
+✅ Found Primary Neoplasm at slice 0
+lungmask 2025-06-26 20:55:09 Postprocessing
+📂 Patient: LUNG1-420, Study folder: 07-31-2010-NA-NA-42181
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-420/07-31-2010-NA-NA-42181/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:55:36 Postprocessing
+📂 Patient: LUNG1-421, Study folder: 07-17-2010-NA-NA-30075
+📁 Elements inside study: ['SEG', 'CT', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-421/07-17-2010-NA-NA-30075/CT
+🧠 Seg shape: (804, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:56:01 Postprocessing
+📂 Patient: LUNG1-422, Study folder: 07-25-2010-NA-NA-06557
+📁 Elements inside study: ['CT', 'SEG', 'RT']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiomics/extracted_all/LUNG1-422/07-25-2010-NA-NA-06557/CT
+🧠 Seg shape: (696, 512, 512), 6 segments
+✅ Found Primary Neoplasm at slice 1
+lungmask 2025-06-26 20:56:29 Postprocessing
+Generating tumor bbx rad
+../datasets_XW/processed_nsclc1/lungs_roi
+LUNG1-001
+LUNG1-002
+LUNG1-003
+LUNG1-004
+LUNG1-005
+LUNG1-006
+LUNG1-007
+LUNG1-008
+LUNG1-009
+LUNG1-010
+LUNG1-011
+LUNG1-012
+LUNG1-013
+LUNG1-014
+LUNG1-015
+LUNG1-016
+LUNG1-017
+LUNG1-018
+LUNG1-019
+LUNG1-020
+LUNG1-021
+LUNG1-022
+LUNG1-023
+LUNG1-024
+LUNG1-025
+LUNG1-026
+LUNG1-027
+LUNG1-028
+LUNG1-029
+LUNG1-030
+LUNG1-031
+LUNG1-032
+LUNG1-033
+LUNG1-034
+LUNG1-035
+LUNG1-036
+LUNG1-037
+LUNG1-038
+LUNG1-039
+LUNG1-040
+LUNG1-041
+LUNG1-042
+LUNG1-043
+LUNG1-044
+LUNG1-045
+LUNG1-046
+LUNG1-047
+LUNG1-048
+LUNG1-049
+LUNG1-050
+LUNG1-051
+LUNG1-052
+LUNG1-053
+LUNG1-054
+LUNG1-055
+LUNG1-056
+LUNG1-057
+LUNG1-059
+LUNG1-060
+LUNG1-061
+LUNG1-062
+LUNG1-063
+LUNG1-064
+LUNG1-065
+LUNG1-066
+LUNG1-067
+LUNG1-068
+LUNG1-069
+LUNG1-070
+LUNG1-071
+LUNG1-072
+LUNG1-073
+LUNG1-074
+LUNG1-075
+LUNG1-076
+LUNG1-077
+LUNG1-078
+LUNG1-079
+LUNG1-080
+LUNG1-081
+LUNG1-082
+LUNG1-083
+LUNG1-084
+LUNG1-085
+LUNG1-086
+LUNG1-087
+LUNG1-088
+LUNG1-089
+LUNG1-090
+LUNG1-091
+LUNG1-092
+LUNG1-093
+LUNG1-094
+LUNG1-095
+LUNG1-096
+LUNG1-097
+LUNG1-098
+LUNG1-099
+LUNG1-100
+LUNG1-101
+LUNG1-102
+LUNG1-103
+LUNG1-104
+LUNG1-105
+LUNG1-106
+LUNG1-107
+LUNG1-108
+LUNG1-109
+LUNG1-110
+LUNG1-111
+LUNG1-112
+LUNG1-113
+LUNG1-114
+LUNG1-115
+LUNG1-116
+LUNG1-117
+LUNG1-118
+LUNG1-119
+LUNG1-120
+LUNG1-121
+LUNG1-122
+LUNG1-123
+LUNG1-124
+LUNG1-125
+LUNG1-126
+LUNG1-127
+LUNG1-128
+LUNG1-129
+LUNG1-130
+LUNG1-131
+LUNG1-132
+LUNG1-133
+LUNG1-134
+LUNG1-135
+LUNG1-136
+LUNG1-137
+LUNG1-138
+LUNG1-139
+LUNG1-140
+LUNG1-141
+LUNG1-142
+LUNG1-143
+LUNG1-144
+LUNG1-145
+LUNG1-146
+LUNG1-147
+LUNG1-148
+LUNG1-149
+LUNG1-150
+LUNG1-151
+LUNG1-152
+LUNG1-153
+LUNG1-154
+LUNG1-155
+LUNG1-156
+LUNG1-157
+LUNG1-158
+LUNG1-159
+LUNG1-160
+LUNG1-161
+LUNG1-162
+LUNG1-163
+LUNG1-164
+LUNG1-165
+LUNG1-166
+LUNG1-167
+LUNG1-168
+LUNG1-169
+LUNG1-170
+LUNG1-171
+LUNG1-172
+LUNG1-173
+LUNG1-174
+LUNG1-175
+LUNG1-176
+LUNG1-177
+LUNG1-178
+LUNG1-179
+LUNG1-180
+LUNG1-181
+LUNG1-182
+LUNG1-183
+LUNG1-184
+LUNG1-185
+LUNG1-186
+LUNG1-187
+LUNG1-188
+LUNG1-189
+LUNG1-190
+LUNG1-191
+LUNG1-192
+LUNG1-193
+LUNG1-194
+LUNG1-195
+LUNG1-196
+LUNG1-197
+LUNG1-198
+LUNG1-199
+LUNG1-200
+LUNG1-201
+LUNG1-202
+LUNG1-203
+LUNG1-204
+LUNG1-205
+LUNG1-206
+LUNG1-207
+LUNG1-208
+LUNG1-209
+LUNG1-210
+LUNG1-211
+LUNG1-212
+LUNG1-213
+LUNG1-214
+LUNG1-215
+LUNG1-216
+LUNG1-217
+LUNG1-218
+LUNG1-219
+LUNG1-220
+LUNG1-221
+LUNG1-222
+LUNG1-223
+LUNG1-224
+LUNG1-225
+LUNG1-226
+LUNG1-227
+LUNG1-228
+LUNG1-229
+LUNG1-230
+LUNG1-231
+LUNG1-232
+LUNG1-233
+LUNG1-234
+LUNG1-235
+LUNG1-236
+LUNG1-237
+LUNG1-238
+LUNG1-239
+LUNG1-240
+LUNG1-241
+LUNG1-242
+LUNG1-243
+LUNG1-244
+LUNG1-245
+LUNG1-246
+LUNG1-247
+LUNG1-248
+LUNG1-249
+LUNG1-250
+LUNG1-251
+LUNG1-252
+LUNG1-253
+LUNG1-254
+LUNG1-255
+LUNG1-256
+LUNG1-257
+LUNG1-258
+LUNG1-259
+LUNG1-260
+LUNG1-261
+LUNG1-262
+LUNG1-263
+LUNG1-264
+LUNG1-265
+LUNG1-266
+LUNG1-267
+LUNG1-268
+LUNG1-269
+LUNG1-270
+LUNG1-271
+LUNG1-272
+LUNG1-273
+LUNG1-274
+LUNG1-275
+LUNG1-276
+LUNG1-277
+LUNG1-278
+LUNG1-279
+LUNG1-280
+LUNG1-281
+LUNG1-282
+LUNG1-283
+LUNG1-284
+LUNG1-285
+LUNG1-286
+LUNG1-287
+LUNG1-288
+LUNG1-289
+LUNG1-290
+LUNG1-291
+LUNG1-292
+LUNG1-293
+LUNG1-294
+LUNG1-295
+LUNG1-296
+LUNG1-297
+LUNG1-298
+LUNG1-299
+LUNG1-300
+LUNG1-301
+LUNG1-302
+LUNG1-303
+LUNG1-304
+LUNG1-305
+LUNG1-306
+LUNG1-307
+LUNG1-308
+LUNG1-309
+LUNG1-310
+LUNG1-311
+LUNG1-312
+LUNG1-313
+LUNG1-314
+LUNG1-315
+LUNG1-316
+LUNG1-317
+LUNG1-318
+LUNG1-319
+LUNG1-320
+LUNG1-321
+LUNG1-322
+LUNG1-323
+LUNG1-324
+LUNG1-325
+LUNG1-326
+LUNG1-327
+LUNG1-328
+LUNG1-329
+LUNG1-330
+LUNG1-331
+LUNG1-332
+LUNG1-333
+LUNG1-334
+LUNG1-335
+LUNG1-336
+LUNG1-337
+LUNG1-338
+LUNG1-339
+LUNG1-340
+LUNG1-341
+LUNG1-342
+LUNG1-343
+LUNG1-344
+LUNG1-345
+LUNG1-346
+LUNG1-347
+LUNG1-348
+LUNG1-349
+LUNG1-350
+LUNG1-351
+LUNG1-352
+LUNG1-353
+LUNG1-354
+LUNG1-355
+LUNG1-356
+LUNG1-357
+LUNG1-358
+LUNG1-359
+LUNG1-360
+LUNG1-361
+LUNG1-362
+LUNG1-363
+LUNG1-364
+LUNG1-365
+LUNG1-366
+LUNG1-367
+LUNG1-368
+LUNG1-369
+LUNG1-370
+LUNG1-371
+LUNG1-372
+LUNG1-373
+LUNG1-374
+LUNG1-375
+LUNG1-376
+LUNG1-377
+LUNG1-378
+LUNG1-379
+LUNG1-380
+LUNG1-381
+LUNG1-382
+LUNG1-383
+LUNG1-384
+LUNG1-385
+LUNG1-386
+LUNG1-387
+LUNG1-388
+LUNG1-389
+LUNG1-390
+LUNG1-391
+LUNG1-392
+LUNG1-393
+LUNG1-394
+LUNG1-395
+LUNG1-396
+LUNG1-397
+LUNG1-398
+LUNG1-399
+LUNG1-400
+LUNG1-401
+LUNG1-402
+LUNG1-403
+LUNG1-404
+LUNG1-405
+LUNG1-406
+LUNG1-407
+LUNG1-408
+LUNG1-409
+LUNG1-410
+LUNG1-411
+LUNG1-412
+LUNG1-413
+LUNG1-414
+LUNG1-415
+LUNG1-416
+LUNG1-417
+LUNG1-418
+LUNG1-419
+LUNG1-420
+LUNG1-421
+LUNG1-422

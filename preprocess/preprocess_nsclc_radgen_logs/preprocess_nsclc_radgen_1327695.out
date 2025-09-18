@@ -1,0 +1,152 @@
+==========================================
+SLURM_JOB_ID = 1327695
+SLURM_JOB_NODELIST = e21-14
+TMPDIR = /tmp/SLURM_1327695
+==========================================
+GPU Available
+Preprocessing Radiogenomics dataset...
+📂 Patient: R01-023, CT Study folder: 04-20-1991-NA-CT ANGIOGRAPHY CHEST-37940
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-39719', '2.000000-0.625  DMPR On  SS50-86093']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-023/04-20-1991-NA-CT ANGIOGRAPHY CHEST-37940/2.000000-0.625  DMPR On  SS50-86093
+🧠 Seg shape: (69, 512, 512), 1 segments
+lungmask 2025-07-19 12:23:05 Postprocessing
+⚠️ Skipping R01-023 due to lung/tumor extraction error: Spacing must be strictly positive, not "[0.         0.99609375 0.84765625]"
+📂 Patient: R01-024, CT Study folder: 03-07-1991-NA-CT CHEST W-45077
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-21535', '2.000000-.625 mm Chest-91703']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-024/03-07-1991-NA-CT CHEST W-45077/2.000000-.625 mm Chest-91703
+🧠 Seg shape: (531, 512, 512), 1 segments
+lungmask 2025-07-19 12:24:39 Postprocessing
+📂 Patient: R01-025, CT Study folder: 12-18-1990-NA-CT CHEST WO-63318
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-52098', '2.000000-.625 mm Chest-16577']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-025/12-18-1990-NA-CT CHEST WO-63318/2.000000-.625 mm Chest-16577
+🧠 Seg shape: (565, 512, 512), 1 segments
+lungmask 2025-07-19 12:26:20 Postprocessing
+📂 Patient: R01-026, CT Study folder: 11-12-1990-NA-CT CHEST ABD PELVIS WITH CON-93365
+📁 Elements inside study: ['3.000000-Recon 2 CAP-28445', '1000.000000-3D Slicer segmentation result-36727']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-026/11-12-1990-NA-CT CHEST ABD PELVIS WITH CON-93365/3.000000-Recon 2 CAP-28445
+🧠 Seg shape: (19, 512, 512), 1 segments
+lungmask 2025-07-19 12:27:54 Postprocessing
+⚠️ Skipping R01-026 due to lung/tumor extraction error: Spacing must be strictly positive, not "[0.         0.9296875  1.01953125]"
+📂 Patient: R01-027, CT Study folder: 07-21-1993-NA-CT CHEST WCON-12004
+📁 Elements inside study: ['5.000000-THIN LUNG WINDOW-19688', '1000.000000-3D Slicer segmentation result-16768']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-027/07-21-1993-NA-CT CHEST WCON-12004/5.000000-THIN LUNG WINDOW-19688
+🧠 Seg shape: (227, 512, 512), 1 segments
+lungmask 2025-07-19 12:28:41 Postprocessing
+📂 Patient: R01-028, CT Study folder: 08-05-1993-NA-CT CHEST WCON-31743
+📁 Elements inside study: ['5.000000-THIN LUNG WINDOW-57972', '1000.000000-3D Slicer segmentation result-08302']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-028/08-05-1993-NA-CT CHEST WCON-31743/5.000000-THIN LUNG WINDOW-57972
+🧠 Seg shape: (264, 512, 512), 1 segments
+lungmask 2025-07-19 12:29:30 Postprocessing
+📂 Patient: R01-029, CT Study folder: 07-31-1993-NA-CT Thorax-43529
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-83633', '3.000000-1.25MM CHEST BONE-89162']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-029/07-31-1993-NA-CT Thorax-43529/3.000000-1.25MM CHEST BONE-89162
+🧠 Seg shape: (251, 512, 512), 1 segments
+lungmask 2025-07-19 12:30:23 Postprocessing
+📂 Patient: R01-030, CT Study folder: 03-17-1992-NA-CT CHEST WITH-78256
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-01480', '4.000000-THIN LUNG WINDOW-46179']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-030/03-17-1992-NA-CT CHEST WITH-78256/4.000000-THIN LUNG WINDOW-46179
+🧠 Seg shape: (255, 512, 512), 1 segments
+lungmask 2025-07-19 12:31:12 Postprocessing
+📂 Patient: R01-031, CT Study folder: 05-21-1992-NA-CT CHEST WO-14068
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-48986', '4.000000-THIN LUNG WINDOW-31276']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-031/05-21-1992-NA-CT CHEST WO-14068/4.000000-THIN LUNG WINDOW-31276
+🧠 Seg shape: (271, 512, 512), 1 segments
+lungmask 2025-07-19 12:32:08 Postprocessing
+📂 Patient: R01-032, CT Study folder: 04-04-1992-NA-CT THORAX WO DYE-88589
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-18735', '4.000000-THIN LUNG WINDOW-44099']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-032/04-04-1992-NA-CT THORAX WO DYE-88589/4.000000-THIN LUNG WINDOW-44099
+🧠 Seg shape: (304, 512, 512), 1 segments
+lungmask 2025-07-19 12:33:15 Postprocessing
+📂 Patient: R01-033, CT Study folder: 06-27-1992-NA-CT CHEST WITH-02043
+📁 Elements inside study: ['4.000000-THIN LUNG WINDOW-72161', '1000.000000-3D Slicer segmentation result-31875']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-033/06-27-1992-NA-CT CHEST WITH-02043/4.000000-THIN LUNG WINDOW-72161
+🧠 Seg shape: (300, 512, 512), 1 segments
+lungmask 2025-07-19 12:34:13 Postprocessing
+📂 Patient: R01-034, CT Study folder: 05-31-1992-NA-CT CHEST WO-21849
+📁 Elements inside study: ['4.000000-THIN LUNG WINDOW-39609', '1000.000000-3D Slicer segmentation result-67501']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-034/05-31-1992-NA-CT CHEST WO-21849/4.000000-THIN LUNG WINDOW-39609
+🧠 Seg shape: (260, 512, 512), 1 segments
+lungmask 2025-07-19 12:35:07 Postprocessing
+📂 Patient: R01-035, CT Study folder: 09-17-1992-NA-CT CHEST WO-55566
+📁 Elements inside study: ['4.000000-THIN LUNG WINDOW-54773', '1000.000000-3D Slicer segmentation result-28488']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-035/09-17-1992-NA-CT CHEST WO-55566/4.000000-THIN LUNG WINDOW-54773
+🧠 Seg shape: (296, 512, 512), 1 segments
+lungmask 2025-07-19 12:36:01 Postprocessing
+📂 Patient: R01-036, CT Study folder: 10-15-1992-NA-CT CHEST WCONT-53384
+📁 Elements inside study: ['4.000000-THIN LUNG WINDOW-92976', '1000.000000-3D Slicer segmentation result-96070']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-036/10-15-1992-NA-CT CHEST WCONT-53384/4.000000-THIN LUNG WINDOW-92976
+🧠 Seg shape: (322, 512, 512), 1 segments
+lungmask 2025-07-19 12:37:00 Postprocessing
+📂 Patient: R01-037, CT Study folder: 11-17-1992-NA-CT CHEST WO-50816
+📁 Elements inside study: ['4.000000-THIN LUNG WINDOW-51111', '1000.000000-3D Slicer segmentation result-30171']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-037/11-17-1992-NA-CT CHEST WO-50816/4.000000-THIN LUNG WINDOW-51111
+🧠 Seg shape: (271, 512, 512), 1 segments
+lungmask 2025-07-19 12:37:52 Postprocessing
+📂 Patient: R01-038, CT Study folder: 03-29-1993-NA-CT CHEST WO CONT-DESC-67021
+📁 Elements inside study: ['603.000000-CT Thick Axials 2.5mm-71796', '1000.000000-3D Slicer segmentation result-68666']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-038/03-29-1993-NA-CT CHEST WO CONT-DESC-67021/603.000000-CT Thick Axials 2.5mm-71796
+🧠 Seg shape: (6, 512, 512), 1 segments
+lungmask 2025-07-19 12:38:22 Postprocessing
+📂 Patient: R01-039, CT Study folder: 02-17-1993-NA-CT CHEST WO CONT-DESC-72585
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-61879', '603.000000-CT Thick Axials 2.5mm-21982']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-039/02-17-1993-NA-CT CHEST WO CONT-DESC-72585/603.000000-CT Thick Axials 2.5mm-21982
+🧠 Seg shape: (125, 512, 512), 1 segments
+lungmask 2025-07-19 12:38:50 Postprocessing
+📂 Patient: R01-040, CT Study folder: 01-14-1992-NA-CT CHEST W-92911
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-89408', '4.000000-THIN LUNG WINDOW-07667']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-040/01-14-1992-NA-CT CHEST W-92911/4.000000-THIN LUNG WINDOW-07667
+🧠 Seg shape: (316, 512, 512), 1 segments
+lungmask 2025-07-19 12:39:45 Postprocessing
+📂 Patient: R01-041, CT Study folder: 09-07-1992-NA-CT THORAX WO DYE-33339
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-38898', '4.000000-THIN LUNG WINDOW-58024']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-041/09-07-1992-NA-CT THORAX WO DYE-33339/4.000000-THIN LUNG WINDOW-58024
+🧠 Seg shape: (285, 512, 512), 1 segments
+lungmask 2025-07-19 12:40:42 Postprocessing
+📂 Patient: R01-042, CT Study folder: 05-29-1992-NA-CT CHEST W-58121
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-34307', '4.000000-THIN LUNG WINDOW-29129']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-042/05-29-1992-NA-CT CHEST W-58121/4.000000-THIN LUNG WINDOW-29129
+🧠 Seg shape: (240, 512, 512), 1 segments
+lungmask 2025-07-19 12:41:35 Postprocessing
+📂 Patient: R01-043, CT Study folder: 08-21-1992-NA-CT CHEST WO CONT-DESC-59826
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-22243', '603.000000-CT Thick Axials 2.5mm-61899']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-043/08-21-1992-NA-CT CHEST WO CONT-DESC-59826/603.000000-CT Thick Axials 2.5mm-61899
+🧠 Seg shape: (125, 512, 512), 1 segments
+lungmask 2025-07-19 12:42:04 Postprocessing
+📂 Patient: R01-044, CT Study folder: 10-06-1992-NA-CT CHEST WO CONT-DESC-59339
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-41193', '601.000000-CT Thick Axials 2.5mm-78695']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-044/10-06-1992-NA-CT CHEST WO CONT-DESC-59339/601.000000-CT Thick Axials 2.5mm-78695
+🧠 Seg shape: (129, 512, 512), 1 segments
+lungmask 2025-07-19 12:42:31 Postprocessing
+📂 Patient: R01-045, CT Study folder: 01-13-1993-NA-CT CHEST W-20276
+📁 Elements inside study: ['5.000000-THIN LUNG WINDOW-00714', '1000.000000-3D Slicer segmentation result-15113']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-045/01-13-1993-NA-CT CHEST W-20276/5.000000-THIN LUNG WINDOW-00714
+🧠 Seg shape: (282, 512, 512), 1 segments
+lungmask 2025-07-19 12:43:21 Postprocessing
+📂 Patient: R01-046, CT Study folder: 06-17-1993-NA-CT CHEST WCON-34757
+📁 Elements inside study: ['5.000000-THIN LUNG WINDOW-87393', '1000.000000-3D Slicer segmentation result-09174']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-046/06-17-1993-NA-CT CHEST WCON-34757/5.000000-THIN LUNG WINDOW-87393
+🧠 Seg shape: (252, 512, 512), 1 segments
+lungmask 2025-07-19 12:44:13 Postprocessing
+📂 Patient: R01-047, CT Study folder: 08-11-1993-NA-CT CHEST W CON-86994
+📁 Elements inside study: ['5.000000-THIN LUNG WINDOW-53641', '1000.000000-3D Slicer segmentation result-61073']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-047/08-11-1993-NA-CT CHEST W CON-86994/5.000000-THIN LUNG WINDOW-53641
+🧠 Seg shape: (226, 512, 512), 1 segments
+lungmask 2025-07-19 12:44:57 Postprocessing
+📂 Patient: R01-048, CT Study folder: 04-30-1993-NA-CT CHEST ABD PELVIS WITH CON-52882
+📁 Elements inside study: ['3.000000-CHEST 1.0  B45f-67710', '1000.000000-3D Slicer segmentation result-75875']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-048/04-30-1993-NA-CT CHEST ABD PELVIS WITH CON-52882/3.000000-CHEST 1.0  B45f-67710
+🧠 Seg shape: (636, 512, 512), 1 segments
+lungmask 2025-07-19 12:46:39 Postprocessing
+📂 Patient: R01-049, CT Study folder: 06-09-1993-NA-CT THORAX WITH CONTRAST-70115
+📁 Elements inside study: ['3.000000-LUNG 1MM B45f-52987', '1000.000000-3D Slicer segmentation result-22616']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-049/06-09-1993-NA-CT THORAX WITH CONTRAST-70115/3.000000-LUNG 1MM B45f-52987
+🧠 Seg shape: (322, 512, 512), 1 segments
+lungmask 2025-07-19 12:47:42 Postprocessing
+📂 Patient: R01-050, CT Study folder: 07-30-1993-NA-CT Thorax-48912
+📁 Elements inside study: ['1000.000000-3D Slicer segmentation result-51215', '3.000000-1.25MM CHEST BONE PLUS-91598']
+📥 Reading CT from: /project/ruishanl_1185/Tumor_Segmentation_Summer2025_XWDR/Xiwen/datasets_XW/NSCLC-Radiogenomics/R01-050/07-30-1993-NA-CT Thorax-48912/3.000000-1.25MM CHEST BONE PLUS-91598
+🧠 Seg shape: (291, 512, 512), 1 segments
+lungmask 2025-07-19 12:48:34 Postprocessing
+Generating tumor bbx radgen
+../datasets_XW/processed_nsclc_radiogenomics/lungs_roi
+R01-001

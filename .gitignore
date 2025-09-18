@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Results and weights
+results_*/
+weights/
+*.pt
+*.pth
+*.tar
+
+# Data
+data/
+*.nii
+*.nii.gz
+

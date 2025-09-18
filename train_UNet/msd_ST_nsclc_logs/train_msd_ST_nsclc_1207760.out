@@ -1,0 +1,137 @@
+==========================================
+SLURM_JOB_ID = 1207760
+SLURM_JOB_NODELIST = b10-11
+TMPDIR = /tmp/SLURM_1207760
+==========================================
+Running on: cuda
+
+Epoch 1/100
+Train Loss: 0.9510 | Val Loss: 0.9586 | Val Dice: 0.0427 | Val IoU: 0.0230
+✅ Best model updated and saved.
+
+Epoch 2/100
+Train Loss: 0.8633 | Val Loss: 0.7302 | Val Dice: 0.2780 | Val IoU: 0.1965
+✅ Best model updated and saved.
+
+Epoch 3/100
+Train Loss: 0.8321 | Val Loss: 0.7534 | Val Dice: 0.2497 | Val IoU: 0.1710
+
+Epoch 4/100
+Train Loss: 0.8132 | Val Loss: 0.7269 | Val Dice: 0.2801 | Val IoU: 0.2017
+✅ Best model updated and saved.
+
+Epoch 5/100
+Train Loss: 0.7834 | Val Loss: 0.6763 | Val Dice: 0.3423 | Val IoU: 0.2472
+✅ Best model updated and saved.
+
+Epoch 6/100
+Train Loss: 0.7589 | Val Loss: 0.6332 | Val Dice: 0.3714 | Val IoU: 0.2743
+✅ Best model updated and saved.
+
+Epoch 7/100
+Train Loss: 0.7482 | Val Loss: 0.6644 | Val Dice: 0.3401 | Val IoU: 0.2432
+
+Epoch 8/100
+Train Loss: 0.7281 | Val Loss: 0.6444 | Val Dice: 0.3606 | Val IoU: 0.2610
+
+Epoch 9/100
+Train Loss: 0.7252 | Val Loss: 0.6363 | Val Dice: 0.3664 | Val IoU: 0.2808
+
+Epoch 10/100
+Train Loss: 0.7070 | Val Loss: 0.5826 | Val Dice: 0.4200 | Val IoU: 0.3100
+✅ Best model updated and saved.
+
+Epoch 11/100
+Train Loss: 0.6944 | Val Loss: 0.6558 | Val Dice: 0.3460 | Val IoU: 0.2435
+
+Epoch 12/100
+Train Loss: 0.6747 | Val Loss: 0.5534 | Val Dice: 0.4473 | Val IoU: 0.3350
+✅ Best model updated and saved.
+
+Epoch 13/100
+Train Loss: 0.6713 | Val Loss: 0.5337 | Val Dice: 0.4695 | Val IoU: 0.3574
+✅ Best model updated and saved.
+
+Epoch 14/100
+Train Loss: 0.6500 | Val Loss: 0.6994 | Val Dice: 0.3034 | Val IoU: 0.2131
+
+Epoch 15/100
+Train Loss: 0.6545 | Val Loss: 0.5246 | Val Dice: 0.4775 | Val IoU: 0.3729
+✅ Best model updated and saved.
+
+Epoch 16/100
+Train Loss: 0.6341 | Val Loss: 0.5520 | Val Dice: 0.4533 | Val IoU: 0.3493
+
+Epoch 17/100
+Train Loss: 0.6325 | Val Loss: 0.5601 | Val Dice: 0.4414 | Val IoU: 0.3390
+
+Epoch 18/100
+Train Loss: 0.6236 | Val Loss: 0.6288 | Val Dice: 0.3739 | Val IoU: 0.2773
+
+Epoch 19/100
+Train Loss: 0.6143 | Val Loss: 0.5027 | Val Dice: 0.4996 | Val IoU: 0.3916
+✅ Best model updated and saved.
+
+Epoch 20/100
+Train Loss: 0.6020 | Val Loss: 0.5446 | Val Dice: 0.4590 | Val IoU: 0.3443
+
+Epoch 21/100
+Train Loss: 0.5975 | Val Loss: 0.5282 | Val Dice: 0.4741 | Val IoU: 0.3696
+
+Epoch 22/100
+Train Loss: 0.5906 | Val Loss: 0.5283 | Val Dice: 0.4740 | Val IoU: 0.3628
+
+Epoch 23/100
+Train Loss: 0.5820 | Val Loss: 0.5342 | Val Dice: 0.4670 | Val IoU: 0.3514
+
+Epoch 24/100
+Train Loss: 0.5762 | Val Loss: 0.5144 | Val Dice: 0.4873 | Val IoU: 0.3765
+
+Epoch 25/100
+Train Loss: 0.5627 | Val Loss: 0.5569 | Val Dice: 0.4450 | Val IoU: 0.3330
+
+Epoch 26/100
+Train Loss: 0.5356 | Val Loss: 0.4704 | Val Dice: 0.5309 | Val IoU: 0.4188
+✅ Best model updated and saved.
+
+Epoch 27/100
+Train Loss: 0.5404 | Val Loss: 0.4643 | Val Dice: 0.5383 | Val IoU: 0.4193
+✅ Best model updated and saved.
+
+Epoch 28/100
+Train Loss: 0.5242 | Val Loss: 0.5071 | Val Dice: 0.4949 | Val IoU: 0.3769
+
+Epoch 29/100
+Train Loss: 0.5138 | Val Loss: 0.4355 | Val Dice: 0.5678 | Val IoU: 0.4447
+✅ Best model updated and saved.
+
+Epoch 30/100
+Train Loss: 0.5142 | Val Loss: 0.5350 | Val Dice: 0.4654 | Val IoU: 0.3580
+
+Epoch 31/100
+Train Loss: 0.5080 | Val Loss: 0.5095 | Val Dice: 0.4919 | Val IoU: 0.3835
+
+Epoch 32/100
+Train Loss: 0.5133 | Val Loss: 0.5023 | Val Dice: 0.4998 | Val IoU: 0.3763
+
+Epoch 33/100
+Train Loss: 0.5174 | Val Loss: 0.5229 | Val Dice: 0.4777 | Val IoU: 0.3615
+
+Epoch 34/100
+Train Loss: 0.4961 | Val Loss: 0.4811 | Val Dice: 0.5212 | Val IoU: 0.4083
+
+Epoch 35/100
+Train Loss: 0.4967 | Val Loss: 0.5432 | Val Dice: 0.4575 | Val IoU: 0.3475
+
+Epoch 36/100
+Train Loss: 0.4896 | Val Loss: 0.5114 | Val Dice: 0.4905 | Val IoU: 0.3726
+
+Epoch 37/100
+Train Loss: 0.4791 | Val Loss: 0.5099 | Val Dice: 0.4914 | Val IoU: 0.3736
+
+Epoch 38/100
+Train Loss: 0.4771 | Val Loss: 0.5154 | Val Dice: 0.4858 | Val IoU: 0.3776
+
+Epoch 39/100
+Train Loss: 0.4752 | Val Loss: 0.4935 | Val Dice: 0.5085 | Val IoU: 0.3914
+⏹️ Early stopping triggered. Training halted.
